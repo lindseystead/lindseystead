@@ -97,9 +97,6 @@ Whether debugging APIs, automating workflows, or designing interfaces, I focus o
   <a href="https://www.linkedin.com/in/lindseystead" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:lindseystead2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-lindsey@lifesavertech.ca-blue?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
