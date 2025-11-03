@@ -10,17 +10,17 @@
 ## 👩‍💻 About Me
 
 I’m a **full-stack developer** who builds reliable systems for real people.  
-From automating workflows to designing full web apps, I love creating tech that makes life simpler — and I don’t stop until it works the way it should.
+From automating workflows to designing full web apps, I love creating tech that makes life simpler — and I don’t stop until the problem is solved and everything works the way it should.
 
-I’ve built everything from data-driven applications and API integrations to AI-powered tools and automation scripts.  
-My stack includes **React, Node.js, TypeScript, Supabase, SQL, and Python**, plus some **PHP** and **MongoDB** when a project calls for it.  
-I care about clean code, thoughtful design, and systems that hold up under pressure.
+I’ve built a bit of everything — from mobile apps with chatbots to data-driven platforms, API integrations, AI-powered tools, and automation scripts.  
+My stack includes **React, Node.js, TypeScript, Supabase, SQL, and Python**, plus some **PHP** and **MongoDB** when the project calls for it.  
+I care about clean code, thoughtful UX, resilient system design, and creating tools that actually make life easier for everyday people and organizations.
 
-I hold degrees in **Computing Science (with Distinction)**, **Health Sciences**, and **Psychology**, which together trained me to think like both a coder and a human.  
-Through my company, **Lifesaver Technology Services**, I’ve delivered real software for nonprofits, small businesses, and everyday users — building tools that bridge technical complexity with human needs.
+I hold degrees in **Computing Science (with Distinction)**, **Health Sciences (with Distinction)**, and **Psychology**, which together trained me to think like both a coder and a human — analytical yet empathetic, technical yet people-focused.
 
-Now that I’ve finished my studies, I’m looking to join a **software team** that’s building impactful tools — ideally in developer platforms, automation, or AI-powered systems.  
-I’m especially drawn to teams like **Warp**, where developer experience and performance meet great design.
+I’m looking to join a **software team** that’s building impactful tools for developer platforms, automation, or AI-powered systems.  
+I’m especially interested in exploring how my versatility, technical depth, and resilience as a developer can contribute meaningfully to a company’s success.  
+Teams like **Warp**, where developer experience and performance meet great design, really inspire me.
 
 > “I don’t just code — I keep systems (and people) running. And if things catch fire, I’ll figure out how to put them out.”
 
@@ -37,8 +37,7 @@ Whether debugging APIs, automating workflows, or designing interfaces, I focus o
 - Design and deploy full-stack web and mobile applications  
 - Debug and reproduce complex technical issues across systems  
 - Build automation and AI-assisted tools for real-world workflows  
-- Provide end-to-end IT and technical support for small teams  
-- Deliver documentation and clean code that others can trust  
+- Deliver documentation and clean, reliable code that teams can trust  
 
 ---
 
@@ -66,12 +65,12 @@ Whether debugging APIs, automating workflows, or designing interfaces, I focus o
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,python,php,mysql,java,html,css,tailwind,supabase" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,postman,vercel,railway" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,python,php,mysql,java,html,css,tailwind" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,supabase,vscode,figma,postman,vercel,railway" />
 </p>
 
 > **Core:** React · Node.js · TypeScript · Supabase · SQL  
-> **Also:** Python · PHP · Java · MySQL · MongoDB  
+> **Also:** Python · PHP · Java · MySQL · MongoDB · C++ · C · C#  
 > **Mobile:** React Native (Expo) · Android (Java/Kotlin)  
 > **Focus:** Automation · API Integrations · Security · Ethical AI  
 
@@ -98,7 +97,7 @@ Whether debugging APIs, automating workflows, or designing interfaces, I focus o
   <a href="https://www.linkedin.com/in/lindseystead" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:lindsey@lifesavertech.ca" target="_blank">
+  <a href="mailto:lindseystead2@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-lindsey@lifesavertech.ca-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
