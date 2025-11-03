@@ -1,107 +1,83 @@
 <h2 align="center">👋 Hey, I'm Lindsey Stead</h2>
-<h3 align="center">Full-Stack Developer & Tech Support Generalist | I build things that actually work (and fix the ones that don’t).</h3>
+<h3 align="center">Full-Stack Developer & Systems Builder | I create tools that actually work (and fix the ones that don’t).</h3>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lindseystead.lindseystead" alt="visitor badge"/>
+</p>
+
+---
 
 ## 👩‍💻 About Me
 
-I’m a **full-stack developer** who does a bit of everything — software, systems, troubleshooting, and whatever it takes to make tech work for real people.  
-I’ve built apps from scratch, debugged code at 2 a.m., redesigned UIs, and figured out why someone’s printer refuses to talk to their Wi-Fi. It’s all problem-solving to me.
+I’m a **full-stack developer** who builds reliable systems for real people.  
+From automating workflows to designing full web apps, I love creating tech that makes life simpler — and I don’t stop until it works the way it should.
 
-I’ve worked across many stacks — **React, Node.js, TypeScript, Supabase, SQL, and Python** — plus **PHP and MongoDB** when the project calls for it.  
-I like clean code, simple design, and building things that don’t fall apart under pressure.
+I’ve built everything from data-driven applications and API integrations to AI-powered tools and automation scripts.  
+My stack includes **React, Node.js, TypeScript, Supabase, SQL, and Python**, plus some **PHP** and **MongoDB** when a project calls for it.  
+I care about clean code, thoughtful design, and systems that hold up under pressure.
 
-I’ve also done UI/UX prototyping, user research, and full database design. Basically, if it connects to a wire or an API, I’ll make it work.  
-I build software the same way I’ve built my life — with persistence, curiosity, and a sense of humor when things break.
+I hold degrees in **Computing Science (with Distinction)**, **Health Sciences**, and **Psychology**, which together trained me to think like both a coder and a human.  
+Through my company, **Lifesaver Technology Services**, I’ve delivered real software for nonprofits, small businesses, and everyday users — building tools that bridge technical complexity with human needs.
 
-I hold degrees in **Computing Science (with Distinction)**, **Health Sciences**, and **Psychology**. It’s an unusual mix, but it means I think like both a coder *and* a human — and it trained me to approach everything with systems thinking.
-
-Through my small business, **Lifesaver Technology Services**, I help home users, businesses, and nonprofits with everything from IT support to automation tools and custom web or mobile software.  
-I started it during my academic journey, but now I’m looking to join a **software team** where my drive, technical skills, and experience can help a company reach its goals.
-
-Now that I’m done studying, I’m excited to join a tech company that’s building **next-gen AI tools or impactful software** — ideally in a **remote, full-time role** where I can collaborate, ship code, and keep learning. I’ll be posting more of my projects here soon as I move into this next stage.
-
-Honestly, it takes a lot to scare me these days — and I bring that calm, people-first mindset into every problem I solve.
+Now that I’ve finished my studies, I’m looking to join a **software team** that’s building impactful tools — ideally in developer platforms, automation, or AI-powered systems.  
+I’m especially drawn to teams like **Warp**, where developer experience and performance meet great design.
 
 > “I don’t just code — I keep systems (and people) running. And if things catch fire, I’ll figure out how to put them out.”
 
+---
 
 ### 💻 Engineering Philosophy
-Great engineering starts with empathy and ends with reliability.  
-Whether I’m debugging an API, automating a process, or rethinking an interface, I aim for maintainable, human-centered solutions that work in the real world. I don’t stop until the problem is solved — and if no solution exists yet, I’ll engineer one.
+Good engineering is quiet reliability.  
+I build software that’s fast, maintainable, and human-friendly — solutions that just work and stay that way.  
+Whether debugging APIs, automating workflows, or designing interfaces, I focus on empathy, clarity, and resilience.
 
 ---
 
 ### 🧩 What I Do
 - Design and deploy full-stack web and mobile applications  
 - Debug and reproduce complex technical issues across systems  
-- Build automation scripts and AI-powered tools for real-world workflows  
-- Provide end-to-end IT support for home users and small businesses (networks, devices, troubleshooting)  
-- Deliver documentation and training that help teams and users succeed  
+- Build automation and AI-assisted tools for real-world workflows  
+- Provide end-to-end IT and technical support for small teams  
+- Deliver documentation and clean code that others can trust  
 
 ---
 
 ## 🌟 Highlights
-- 🛠️ Designed, debugged, and supported live full-stack systems used by nonprofits and real clients  
-- 🚀 Deployed production applications with real operational uptime  
-- 🔐 Experienced in secure architecture, authentication, and data protection  
-- 🤖 Built AI-assisted apps integrating OpenAI APIs  
-- 💬 Advocate for ethical, human-centered tech and accessibility  
-- 🧱 Solid foundation in algorithms, data structures, and systems design  
-- 👩‍🏫 Lifelong learner with a multidisciplinary mindset and mentoring experience  
+- 🛠️ Built, deployed, and maintained full-stack systems used by real clients and nonprofits  
+- 🚀 Experience with production deployments, CI/CD, and operational uptime  
+- 🔐 Focused on security, authentication, and privacy-compliant data handling  
+- 🤖 Developed AI-integrated tools and chat interfaces using OpenAI APIs  
+- 💬 Advocate for ethical, human-centered technology  
+- 🧱 Solid foundation in algorithms, systems design, and web architecture  
 
 ---
 
-## 🏗️ Featured Projects
+## 🏗️ Featured Project
 
-### 🌐 [Foodbank Digital Check-In System](https://github.com/lindseystead/foodbank-checkin)
-**React • TypeScript • Chakra UI • Supabase Auth • Railway Backend - AWS For Production and Foodbanks in Canad for Privacy Compliance • Vercel Frontends (canadian cloud hosting servers)**  
-A final capstone project for a local foodubank that is a digital appointment and check-in and appointment software system for a food bank to streamline client service and reduce volunteer workload. Ready for licensing for other foodbanks 
-> Architected a multi-location platform with secure authentication platform for staff and volunteer admins to login, CSV parsing, mapping and automation tools, best practices in UI/UX design anresponsive UI.  
-> Fully proprietary and ready to scale across Canada.
+### 🧾 [SmartSheetConnect](https://github.com/lindseystead/SmartSheetConnect)
+**React • TypeScript • Node.js • Express • Google APIs • Slack Webhooks**
 
----
-
-### 📱 [ResilientHQ](https://github.com/lindseystead/resilienthq)
-**React Native • Expo Go • ChatGPT API • Secure Backend Integrations**  
-A cross-platform caregiver wellness app with emotion-aware journaling and real-time AI chat support.  
-> Built and deployed from scratch with secure integrations and modular design.
-
----
-
-### 🐾 [Pawsitive Placements](https://github.com/lindseystead/pawsitive-placements)
-**PHP • MySQL • Bootstrap**  
-A secure pet adoption and rehoming system with admin dashboards, authentication, and search filters.  
-> Designed and implemented the entire SQL schema, backend logic, and UI.
-
----
-
-### ⚙️ [Ethical Automation Tools] - COMING SOON 
-**Python • APIs • LLMs**  
-Lightweight automation and AI utilities that simplify daily workflows while prioritizing privacy and ethical data handling.
+> A full-stack TypeScript application that automatically logs form submissions to Google Sheets and sends real-time notifications through Gmail and Slack — no Zapier required.  
+> Features input validation with Zod, spam protection, and auto-managed Google Sheets integration for businesses that need zero-maintenance lead tracking.  
+> Designed, built, and documented end-to-end in just a few days — ready for deployment and commercial licensing.
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,python,php,mysql,java,html,css,tailwind,chakra" /><br/>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,git,github,linux,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,express,python,php,mysql,java,html,css,tailwind,supabase" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,postman,vercel,railway" />
 </p>
 
-> **Primary:** React · TypeScript · Node.js · Supabase · React Native  
-> **Also:** Java · PHP · MySQL · Python · C · C++ · C#  
-> **Mobile:** Android (Java/Kotlin) · React Native (Expo)  
-> **Security:** Network Security · Secure System Design · Authentication & Data Privacy  
-> **Tools:** Git · Linux · VS Code · Figma · Tailwind CSS · Chakra UI  
+> **Core:** React · Node.js · TypeScript · Supabase · SQL  
+> **Also:** Python · PHP · Java · MySQL · MongoDB  
+> **Mobile:** React Native (Expo) · Android (Java/Kotlin)  
+> **Focus:** Automation · API Integrations · Security · Ethical AI  
 
 ---
 
 ## 🧠 Developer Stats
-I’m passionate about improving the developer and user experience — writing clean, documented code and automating repetitive tasks.  
-Through Lifesaver Technology Services, I also help clients integrate technology and AI into daily operations to save time, reduce errors, and make tech feel human again.
-
----
-
-## 🏆 Achievements & Activity
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lindseystead&theme=onestar&margin-w=10&row=1" />
@@ -118,7 +94,7 @@ Through Lifesaver Technology Services, I also help clients integrate technology 
 ## 🤝 Connect with Me
 
 <p align="center">
-  <i>If you’re a business or nonprofit looking for reliable tech systems, automation, or IT support — reach out, I’d love to collaborate.</i><br/><br/>
+  <i>Looking forward to posting more full-stack tools and developer-focused projects — stay tuned!</i><br/><br/>
   <a href="https://www.linkedin.com/in/lindseystead" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
