@@ -9,6 +9,17 @@
 
 ---
 
+## ⭐ Featured Project
+
+### 🍎 [Foodbank Check-In System](https://github.com/lindseystead/foodbank-checkin-portfolio)
+**Production-ready full-stack system (21,628+ lines TypeScript)**
+- Reduced check-in time from 15+ minutes to under 5 minutes
+- 31 RESTful API endpoints, 28 React components
+- 7-language support, CSV-first architecture, Link2Feed-ready
+- [Live Demo](https://foodbank-checkin-tan.vercel.app/) | [Admin Dashboard](https://foodbank-checkin.vercel.app/login)
+
+---
+
 ## 👩‍💻 About Me
 
 I'm a full-stack developer who builds things for real people who need them to actually work.
@@ -24,6 +35,14 @@ I'm looking to work as part of a software team building tools for developers, au
 In my free time, I contribute to Lifesaver Technology Services, helping with IT support and building tools or apps that help local home users, business nonprofits and community organizations improve their efficiency. Currently, I am focused on contributing my skills to an engineering team to design applications that are changing future innovation and real-world applications. 
  
 > *"I don't just code — I keep systems (and people) running. And if things catch fire, I'll figure out how to put them out."*
+
+---
+
+## 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/lindseystead/)
+- 🐙 [GitHub](https://github.com/lindseystead)
+- 📧 Open to opportunities and collaborations
 
 ---
 
@@ -54,32 +73,43 @@ When I'm debugging APIs, automating workflows, or designing interfaces, I think 
 - 🧱 Know my way around algorithms, system design, and web architecture
 - 🎓 **Graduated with Distinction** (Bachelor of Computing Science and diploma, TRU 2025) — **Only mom in my program**
 - 👩‍💻 **Mom in tech** and advocate for **women in engineering** — proving you can excel in tech while raising a family
-- 📊 Wrote **25,000+ lines** of TypeScript/React code that's actually deployed and live and can help improve foodbank operations
+- 📊 Wrote **21,628+ lines** of production TypeScript code that's deployed and ready to help improve foodbank operations
 
 ---
 
 ## 🏗️ Projects
 
 ### 🍎 Foodbank Check-In System
-**My Capstone Project | Actually in Production**
+**My Capstone Project | Production-Ready**
 
 React • TypeScript • Node.js • Express • Supabase • PostgreSQL • Vercel • Railway
 
-This is my capstone project from TRU. I built it solo over 6 months while dealing with... well, life. It's a full-stack check-in system for food banks. **25,135 lines of code** that's actually being used by real food banks right now.
+This is my capstone project from TRU. I built it solo over 6 months while dealing with... well, life. It's a full-stack check-in system (21,628+ lines TypeScript) that reduced check-in time from 15+ minutes to under 5 minutes. Production-ready system ready for licensing and adaptable for food banks and other organizations.
+
+**Architecture:**
+- **CSV-first architecture** - Works immediately with Link2Feed CSV exports (no API access required)
+- **N-tier architecture** - Separate client app, admin dashboard, and RESTful API backend
+- **Link2Feed-ready** - Architecture designed for future Link2Feed RESTful API integration (stub implementation ready)
+- **Scalable multi-location** - Built to handle multiple locations and high-volume check-ins simultaneously
 
 **What it does:**
 - QR code check-in (clients scan and check in themselves)
 - Real-time admin dashboard with analytics
-- Works in 7 languages
-- CSV-first (works with Link2Feed exports)
+- Works in 7 languages (English, French, Spanish, Chinese, Hindi, Arabic, Punjabi)
+- CSV-first architecture (works with Link2Feed exports)
 - Auto-schedules appointments 21+ days out
-- Privacy-compliant (deletes everything after 24 hours)
+- Privacy-compliant (deletes everything after 24 hours - PIPEDA compliant)
 - Accessible (WCAG 2.1 AA)
 
 **The impact:**
 - Cut check-in time from 15+ minutes to under 5 minutes
-- It's deployed and people are using it
-- Supports multiple locations with separate data
+- 21,628+ lines of production TypeScript code
+- 31 RESTful API endpoints across 10 route modules
+- 28 React components (11 client + 17 admin)
+- 7-language support with 1,668 lines of translations
+- CSV-first architecture enables immediate deployment without API dependencies
+- Link2Feed-ready architecture for future API integration
+- Production-ready and adaptable for food banks and other organizations
 - I graduated with **Distinction** as the only mom in my program (that was hard)
 
 **Try it:**
@@ -91,24 +121,73 @@ This is my capstone project from TRU. I built it solo over 6 months while dealin
 ---
 
 ### 🧾 SmartSheetConnect
+**Production-Ready Automation Tool | Zapier Alternative**
 
 React • TypeScript • Node.js • Express • Google APIs • Slack Webhooks
 
-Built this because I was tired of paying for Zapier. It takes form submissions, logs them to Google Sheets, and sends notifications through Gmail and Slack. No monthly fees, no vendor lock-in.
+Built this because I was tired of paying for Zapier. A production-ready full-stack template that captures website leads, auto-logs them to Google Sheets, and sends email/Slack notifications. No monthly fees, no vendor lock-in.
 
-Has input validation (Zod), spam protection, and manages Google Sheets integration automatically. Built it in a few days when I should have been doing other things.
+**What it does:**
+- Captures form submissions from websites
+- Auto-logs to Google Sheets with intelligent column mapping
+- Sends email notifications via Gmail API
+- Sends Slack notifications via webhooks
+- Input validation with Zod
+- Spam protection and rate limiting
+
+**Technical Highlights:**
+- Full-stack React + Express + TypeScript template
+- Google Sheets API integration
+- Slack Webhook integration
+- Zod schema validation
+- Production-ready error handling
+- Built in a few days (shows rapid development skills)
 
 **Code:** [SmartSheetConnect](https://github.com/lindseystead/SmartSheetConnect)
 
 ---
 
-### 🚀 Coming Soon
+### 💚 ResilientHQ
+**Mobile Wellness App for Caregivers | React Native**
 
-**ResilientHQ** — Full-stack React Native mobile app. Built and will be posted soon.
+React Native • Expo • TypeScript • Supabase
 
-**PawsitivePlacements** — Full-stack web application. Built and will be posted soon.
+A full-stack mobile wellness app designed to support caregivers. Built with React Native and Expo Go for cross-platform deployment. Features include chatbot integration, wellness tracking, and community support features.
 
-Both projects are complete and will be live soon after some modernizing. Check back for updates!
+**Key Features:**
+- Mobile-first design with React Native
+- Chatbot integration for support
+- Wellness tracking and resources
+- Community features
+
+**Status:** Complete, modernizing before public release
+
+**Code:** [ResilientHQ](https://github.com/lindseystead/ResilientHQ) 
+
+---
+
+### 🐾 PawsitivePlacements
+**Full-Stack Pet Adoption Platform | PHP/MySQL**
+
+PHP 8.2 • MySQL • JavaScript • Bootstrap • AJAX
+
+A comprehensive web application that connects pets with loving families. Built with PHP, MySQL, and modern web technologies. Features secure authentication, advanced search/filtering, adoption workflow management, and admin dashboard.
+
+**Key Features:**
+- Secure user authentication
+- Advanced search/filtering
+- Adoption application workflow
+- Admin dashboard
+- Community forum
+- RESTful API with AJAX
+
+**Technical Highlights:**
+- 68 PHP files, 12,461+ lines of code
+- 17 normalized database tables
+- 6+ security implementations (CSRF, SQL injection prevention, XSS protection)
+- Responsive design
+
+**Code:** [PawsitivePlacements](https://github.com/lindseystead/PawsitivePlacements) 
 
 ---
 
@@ -118,6 +197,40 @@ Both projects are complete and will be live soon after some modernizing. Check b
 **Sometimes:** Python · PHP · Java · MySQL · MongoDB · C++ · C · C#  
 **Mobile:** React Native (Expo) · Android (Java/Kotlin)  
 **What I like:** Automation · API stuff · Security · AI that doesn't suck
+
+---
+
+## 💼 Skills & Expertise
+
+**Frontend:**
+- React 18, TypeScript, JavaScript (ES6+)
+- React Native, Expo
+- Chakra UI, Bootstrap, CSS3
+- Responsive design, mobile-first development
+
+**Backend:**
+- Node.js, Express
+- RESTful API design
+- PostgreSQL, MySQL, Supabase
+- Authentication & authorization
+
+**Architecture:**
+- N-tier architecture
+- CSV-first architecture
+- API integration design
+- System design & scalability
+
+**DevOps & Tools:**
+- Git, GitHub
+- CI/CD pipelines
+- Vercel, Railway deployment
+- Environment management
+
+**Other:**
+- PHP, Python
+- Testing (Vitest, Cypress)
+- Accessibility (WCAG 2.1 AA)
+- Privacy compliance (PIPEDA)
 
 ---
 
