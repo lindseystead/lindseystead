@@ -1,6 +1,6 @@
 👋 Hey, I'm Lindsey Stead
 
-**Full-Stack Developer & Systems Builder** | I build stuff that works (and fix stuff that doesn't).
+**Support Engineer | Debugging & Troubleshooting Specialist** | Developer Tools | AI Development | Remote
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=lindseystead.lindseystead)
 
@@ -12,7 +12,9 @@
 ## ⭐ Featured Project
 
 ### 🍎 [Foodbank Check-In System](https://github.com/lindseystead/foodbank-checkin-portfolio)
+
 **Production-ready full-stack system (21,628+ lines TypeScript)**
+
 - Reduced check-in time from 15+ minutes to under 5 minutes
 - 31 RESTful API endpoints, 28 React components
 - 7-language support, CSV-first architecture, Link2Feed-ready
@@ -22,19 +24,17 @@
 
 ## 👩‍💻 About Me
 
-I'm a full-stack developer who builds things for real people who need them to actually work.
+I'm a Support Engineer passionate about helping developers succeed with cutting-edge tools and AI-driven development workflows. I specialize in debugging, troubleshooting, and building error handling systems that make developer tools more reliable and easier to use.
 
 I've built everything from mobile apps with chatbots to data platforms, API integrations, AI tools, and automation scripts. My go-to stack is React, Node.js, TypeScript, Supabase, and SQL, but I'll use Python, PHP, or MongoDB if that's what the project needs.
 
 I have three degrees — Computing Science (with Distinction), Health Sciences (with Distinction), and Psychology — which means I think like both a coder and a human. Sometimes that's helpful, sometimes it's just more peaceful to be running or coding.
 
-I'm a mom in tech and proud to be part of the women in engineering community. I graduated with Distinction as the only mother in my Computing Science program, proving that you can build production systems, raise kids, and excel in tech all at the same time. 
+I'm a mom in tech and proud to be part of the women in engineering community. I graduated with Distinction as the only mother in my Computing Science program, proving that you can build production systems, raise kids, and excel in tech all at the same time.
 
-I'm looking to work as part of a software team building tools for developers, automation, or AI systems. I enjoy thinking in systems, collaborating with others, solving real-world problems and engineering new ideas that can help others. 
+I'm looking to work as a Support Engineer building tools for developers, automation, or AI systems. I enjoy thinking in systems, collaborating with others, solving real-world problems and engineering new ideas that can help others.
 
-In my free time, I contribute to Lifesaver Technology Services, helping with IT support and building tools or apps that help local home users, business nonprofits and community organizations improve their efficiency. Currently, I am focused on contributing my skills to an engineering team to design applications that are changing future innovation and real-world applications. 
- 
-> *"I don't just code — I keep systems (and people) running. And if things catch fire, I'll figure out how to put them out."*
+> *"I don't just code — I debug, troubleshoot, and help developers succeed. And if things break, I'll figure out how to fix them."*
 
 ---
 
@@ -42,7 +42,7 @@ In my free time, I contribute to Lifesaver Technology Services, helping with IT 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lindseystead/)
 - 🐙 [GitHub](https://github.com/lindseystead)
-- 📧 Open to opportunities and collaborations
+- 📧 Open to Support Engineer opportunities
 
 ---
 
@@ -56,16 +56,19 @@ When I'm debugging APIs, automating workflows, or designing interfaces, I think 
 
 ## 🧩 What I Actually Do
 
+- **Debug & Troubleshoot** complex technical issues (weird issues that shouldn't exist but somehow do)
+- **Build Error Handling Systems** (Error Boundaries, production-safe logging, error diagnostics)
+- **Handle API Errors** (authentication, rate limiting, network issues)
+- **Create Documentation** and troubleshooting guides
 - Build full-stack web and mobile apps
-- Debug weird issues that shouldn't exist but somehow do, it doesn't even matter who did it at this point does it?  
-- I design and create real world tools that can make someone's day brighter and automate things they didn't know could be automated
-- Write code and docs that other people can actually understand, or even just consider looking at 
+- Design and create real world tools that can make someone's day brighter and automate things they didn't know could be automated
+- Write code and docs that other people can actually understand, or even just consider looking at
 
 ---
 
 ## 🌟 Stuff I'm Proud Of
 
-- 🛠️ Built and deployed full-stack systems that real nonprofits could actually find useful and help their day-to-day operations 
+- 🛠️ Built Error Boundary components and production-safe logging systems
 - 🚀 Got comfortable with production deployments, CI/CD, and kept things running and managed domains, deployments, code-bases, logistics and dev environments, testing and all software engineering solo while building multiple apps at once
 - 🔐 Actually care about security, auth, and privacy (especially for Canadian orgs)
 - 🤖 Built AI tools using OpenAI APIs (they're pretty cool and way too much fun)
@@ -73,13 +76,14 @@ When I'm debugging APIs, automating workflows, or designing interfaces, I think 
 - 🧱 Know my way around algorithms, system design, and web architecture
 - 🎓 **Graduated with Distinction** (Bachelor of Computing Science and diploma, TRU 2025) — **Only mom in my program**
 - 👩‍💻 **Mom in tech** and advocate for **women in engineering** — proving you can excel in tech while raising a family
-- 📊 Wrote **21,628+ lines** of production TypeScript code that's deployed and ready to help improve foodbank operations
+- 📊 Wrote **21,628+ lines** of production TypeScript code with comprehensive error handling
 
 ---
 
 ## 🏗️ Projects
 
 ### 🍎 Foodbank Check-In System
+
 **My Capstone Project | Production-Ready**
 
 React • TypeScript • Node.js • Express • Supabase • PostgreSQL • Vercel • Railway
@@ -101,6 +105,13 @@ This is my capstone project from TRU. I built it solo over 6 months while dealin
 - Privacy-compliant (deletes everything after 24 hours - PIPEDA compliant)
 - Accessible (WCAG 2.1 AA)
 
+**Error Handling & Debugging:**
+- Error Boundary components for graceful error handling
+- Production-safe logging system (dev vs production)
+- API error handling (authentication, rate limiting, network issues)
+- Contextual error logging with debugging context
+- User-friendly error messages with recovery options
+
 **The impact:**
 - Cut check-in time from 15+ minutes to under 5 minutes
 - 21,628+ lines of production TypeScript code
@@ -121,6 +132,7 @@ This is my capstone project from TRU. I built it solo over 6 months while dealin
 ---
 
 ### 🧾 SmartSheetConnect
+
 **Production-Ready Automation Tool | Zapier Alternative**
 
 React • TypeScript • Node.js • Express • Google APIs • Slack Webhooks
@@ -135,6 +147,13 @@ Built this because I was tired of paying for Zapier. A production-ready full-sta
 - Input validation with Zod
 - Spam protection and rate limiting
 
+**Error Handling:**
+- Production-ready error handling
+- Input validation with Zod
+- API error handling
+- Clear error messages
+- Error logging and diagnostics
+
 **Technical Highlights:**
 - Full-stack React + Express + TypeScript template
 - Google Sheets API integration
@@ -148,6 +167,7 @@ Built this because I was tired of paying for Zapier. A production-ready full-sta
 ---
 
 ### 💚 ResilientHQ
+
 **Mobile Wellness App for Caregivers | React Native**
 
 React Native • Expo • TypeScript • Supabase
@@ -162,11 +182,12 @@ A full-stack mobile wellness app designed to support caregivers. Built with Reac
 
 **Status:** Complete, modernizing before public release
 
-**Code:** [ResilientHQ](https://github.com/lindseystead/ResilientHQ) 
+**Code:** [ResilientHQ](https://github.com/lindseystead/ResilientHQ)
 
 ---
 
 ### 🐾 PawsitivePlacements
+
 **Full-Stack Pet Adoption Platform | PHP/MySQL**
 
 PHP 8.2 • MySQL • JavaScript • Bootstrap • AJAX
@@ -187,7 +208,7 @@ A comprehensive web application that connects pets with loving families. Built w
 - 6+ security implementations (CSRF, SQL injection prevention, XSS protection)
 - Responsive design
 
-**Code:** [PawsitivePlacements](https://github.com/lindseystead/PawsitivePlacements) 
+**Code:** [PawsitivePlacements](https://github.com/lindseystead/PawsitivePlacements)
 
 ---
 
@@ -201,6 +222,21 @@ A comprehensive web application that connects pets with loving families. Built w
 ---
 
 ## 💼 Skills & Expertise
+
+**Debugging & Troubleshooting:**
+- Error handling and error boundaries
+- Production-safe logging systems
+- Bug reproduction and test case creation
+- Root cause analysis
+- Contextual error logging
+- API error handling (401, 429, timeouts)
+
+**Developer Tools:**
+- Terminal & Shell environments
+- Git & Version Control
+- GitHub Issues & Discussions
+- Error tracking systems
+- Developer workflows
 
 **Frontend:**
 - React 18, TypeScript, JavaScript (ES6+)
