@@ -7,18 +7,6 @@
 ![Mom in Tech](https://img.shields.io/badge/Mom%20in%20Tech-Pink?style=flat-square&logo=heart&logoColor=white)
 ![Women in Engineering](https://img.shields.io/badge/Women%20in%20Engineering-HotPink?style=flat-square&logo=github&logoColor=white)
 
----
-
-## ⭐ Featured Project
-
-### 🍎 [Foodbank Check-In System](https://github.com/lindseystead/foodbank-checkin-portfolio)
-
-**Production-ready full-stack system (21,628+ lines TypeScript)**
-
-- Reduced check-in time from 15+ minutes to under 5 minutes
-- 31 RESTful API endpoints, 28 React components
-- 7-language support, CSV-first architecture, Link2Feed-ready
-- [Live Demo](https://foodbank-checkin-tan.vercel.app/) | [Admin Dashboard](https://foodbank-checkin.vercel.app/login)
 
 ---
 
@@ -42,7 +30,6 @@ I'm looking to work as a Support Engineer building tools for developers, automat
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lindseystead/)
 - 🐙 [GitHub](https://github.com/lindseystead)
-- 📧 Open to Support Engineer opportunities
 
 ---
 
@@ -50,16 +37,16 @@ I'm looking to work as a Support Engineer building tools for developers, automat
 
 I build software that works and stays working. Fast, maintainable, and actually useful to humans.
 
-When I'm debugging APIs, automating workflows, or designing interfaces, I think about the people who have to use, or want to use, what I'm building. That usually means clearer code and documentation, better UI/UX practices, and systems that don't break when you look at them wrong. Thoughtful and down-to-earth but robust and resilient.
+When I'm developing or debugging APIs, automating workflows, or designing interfaces, I think about the people who have to use, or want to use, what I'm building. That usually means clearer code and documentation, better UI/UX practices, and systems that don't break when you look at them wrong. Thoughtful and down-to-earth but robust and resilient.
 
 ---
 
-## 🧩 What I Actually Do
+## 🧩 What I Do
 
 - **Debug & Troubleshoot** complex technical issues (weird issues that shouldn't exist but somehow do)
 - **Build Error Handling Systems** (Error Boundaries, production-safe logging, error diagnostics)
 - **Handle API Errors** (authentication, rate limiting, network issues)
-- **Create Documentation** and troubleshooting guides
+- **Create Documentation** and troubleshooting guides for all types of users 
 - Build full-stack web and mobile apps
 - Design and create real world tools that can make someone's day brighter and automate things they didn't know could be automated
 - Write code and docs that other people can actually understand, or even just consider looking at
