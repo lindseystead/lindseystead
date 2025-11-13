@@ -12,7 +12,10 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lindseystead.lindseystead" />
 </p>
-## 🚀 What I Do
+
+--
+
+🚀 What I Do
 
 I specialise in full-stack development, automation, and AI-powered workflows that make systems faster, more reliable, and easier to use.  
 I solve problems, build tools, and support teams — all without the chaos.
