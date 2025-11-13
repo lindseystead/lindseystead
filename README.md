@@ -55,7 +55,7 @@ When I'm developing backend APIs, automating workflows, or designing interfaces,
 
 ## 🌟 Stuff I'm Proud Of
 
-- 🛠️ Built a automated algorithmic crypto machine lesrning teading bot and also built Error Boundary components and production-safe logging systems
+- 🛠️ Built a automated algorithmic crypto machine learning teading bot and Error Boundary components for production-safe logging systems in the same week
 - 🚀 Got comfortable with production deployments, CI/CD, and kept things running and managed domains, deployments, code-bases, logistics and dev environments, testing and all software engineering solo while building multiple apps at once
 - 🔐 Actually care about security, auth, and privacy (especially for Canadian orgs)
 - 🤖 Built AI tools using OpenAI APIs (they're pretty cool and way too much fun)
