@@ -1,56 +1,79 @@
-# Hi, I'm Lindsey Stead 👋  
-**Full-Stack Developer • Support Engineer • AI Workflow Builder**
+<!-- HEADER BANNER (you can replace with an image or keep as stylised text) -->
+<h1 align="center" style="margin-bottom:0.25em;">Hi, I’m Lindsey Stead 👋</h1>
+<p align="center" style="margin-top:0;">Full-Stack Developer • Support Engineer • AI Workflow Builder</p>
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=lindseystead.lindseystead)
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lindseystead.lindseystead" alt="Visitor badge"/>
+  <img src="https://img.shields.io/badge/Mom-in-Tech-#FF6B6B?style=flat" alt="Mom in Tech"/>
+  <img src="https://img.shields.io/badge/Women-in-Engineering-#4ECDC4?style=flat" alt="Women in Engineering"/>
+  <img src="https://img.shields.io/badge/TypeScript-Expert-#f0db4f?style=flat" alt="TypeScript Expert"/>
+</p>
 
-I build reliable, human-centered systems that solve real problems.  
-My background spans full-stack development, automation, AI-powered tooling, and support engineering. I focus on removing friction, improving efficiency, and designing systems that hold up under pressure.
-
-I don’t just ship code — I debug, refine, and make things *work*.
 ---
 
 ## 🚀 What I Do
-- **Full-stack development** (React, TypeScript, Node.js, Supabase)  
-- **AI-driven automation** and PDF → structured data workflows  
-- **Error-handling systems** and debugging for developer tools  
-- **Chrome extensions** and browser automation  
-- **End-to-end system design**, from architecture to deployment  
-- **User-focused problem solving** for real-world operations
+
+I specialise in full-stack development, automation, and AI-powered workflows that make systems faster, more reliable, and easier to use.  
+I solve problems, build tools, and support teams — all without the chaos.
+
+My background includes:  
+- Full-stack web + mobile application engineering  
+- API integrations and workflow automation  
+- AI tooling (e.g., intelligent form systems, automation agents)  
+- Production debugging, error-handling and support engineering  
+- Scalable architecture, data modelling & system design  
 
 ---
 
-## 🧠 Tech Stack
-**Frontend:** React · Next.js · TypeScript · Chakra/Tailwind · React Native  
-**Backend:** Node.js · Express · Supabase (Auth, Storage, Postgres)  
-**AI & Automation:** OpenAI API · LLM pipelines · PDF parsing · Workflow automation  
-**DevOps & Tools:** Vercel · GitHub · Docker (basic) · Chrome Extensions  
-**Other:** REST APIs · SQL · JWT · CSV-first systems · i18n · Accessibility
+## 🧰 Tech I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,postgres,supabase,python,php,java,git,github,vscode,figma" alt="Tech stack icons"/>
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🏗️ Projects I’m Proud Of
 
-### **🍎 Foodbank Check-In and Appointment System**
-Production-ready full-stack system (21,628+ lines TypeScript) built for a local nonprofit.  
-Multi-language support, QR workflow, CSV-driven architecture, admin/volunteer modules, REST API, and privacy-first design.
+### 🍎 Foodbank Check-In System  
+**Full-stack, production-ready system** built to reduce check-in from 15+ minutes to under 5.  
+React • Node.js • Express • Supabase • PostgreSQL • 21k+ lines of TS  
+[Repo → foodbank-checkin-portfolio](https://github.com/lindseystead/foodbank-checkin-portfolio)
 
-### **🧩 SmartSheetConnect**
-React + TypeScript automation tool that collects lead data, syncs it to Excel, and sends Slack/Gmail notifications in real-time.
+### 🧾 SmartSheetConnect (Zapier Alternative)  
+Lead-capture → Google Sheets → Slack → Gmail automation tool built for businesses tired of subscription fees.  
+React • Node.js • TS • Google APIs • Zod  
+[Repo → SmartSheetConnect](https://github.com/lindseystead/SmartSheetConnect)
 
-
----
-
-## 🧩 What I’m Best At
-- Breaking down complex problems  
-- Building tools that reduce repetitive work  
-- Making systems reliable for real users  
-- Debugging issues that others can’t reproduce  
-- Staying calm under pressure and fixing what’s broken
+### 💚 ResilientHQ  
+Mobile wellness app for caregivers built with React Native & Supabase: chatbot, tracking, community features.  
+[Repo → ResilientHQ](https://github.com/lindseystead/ResilientHQ)
 
 ---
 
-## 📫 Connect
-If you’re building developer tools, AI workflows, or systems that need reliability — I’m open to chatting.
+## 📊 GitHub Activity
 
-**LinkedIn:** https://www.linkedin.com/in/lindseystead  
-**GitHub:** https://github.com/lindseystead
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lindseystead&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindseystead&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+## 🛠️ What I’m Working On Now
+
+- AI-powered universal form & PDF auto-fill system  
+- Automation tools for small business workflows  
+- Browser extension + API workflows for effortless integration  
+- Enhancing full-stack architecture patterns (Supabase, edge functions)  
+
+---
+
+## 📬 Connect
+
+[LinkedIn → Lindsey Stead](https://www.linkedin.com/in/lindseystead)  
+[Website → LifesaverTech.ca](https://www.lifesavertech.ca)
+
+---
+
+<p align="center" style="margin-top:2em;"><i>I build software that works — and keeps working.</i></p>
