@@ -1,6 +1,6 @@
 👋 Hey, I'm Lindsey Stead
 
-**Full-Stack Dev + Support Engineer | Debugging & Troubleshooting Specialist** | Developer Tools | AI Development | Remote
+**Full-Stack Dev + Support Engineer | Troubleshooting Specialist** | Developer Tools | AI Development | Remote
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=lindseystead.lindseystead)
 
@@ -12,9 +12,9 @@
 
 ## 👩‍💻 About Me
 
-I'm a Full Stack Developer and a Support Engineer passionate about helping developers succeed with cutting-edge tools and AI-driven development workflows. I specialize in debugging, troubleshooting, and building error handling systems that make developer tools more reliable and easier to use.
+I'm a Full Stack Developer and a Support Engineer passionate about helping people improve their efficiency and succeed with cutting-edge tools and AI-driven development and automated workflows. I specialize in debugging, troubleshooting, and building error handling systems that make developer tools more reliable and easier to use.
 
-I've built everything from mobile apps with chatbots to data platforms, API integrations, AI tools, and automation scripts. My go-to stack is React, Node.js, TypeScript, Supabase, and SQL, but I'll use Python, PHP, or MongoDB if that's what the project needs.
+I've built everything from mobile apps with chatbots to data platforms, API integrations, AI tools, and automation scripts. My go-to stack is React, Node.js, TypeScript, Postgres, and SQL, but I'll use Python, PHP, or MongoDB if that's what the project needs.
 
 I have three degrees — Computing Science (with Distinction), Health Sciences (with Distinction), and Psychology — which means I think like both a coder and a human. Sometimes that's helpful, sometimes it's just more peaceful to be running or coding.
 
