@@ -102,9 +102,7 @@ React Native mobile wellness app with chatbot + tracking tools.
 
 ## 📬 Connect
 
-**LinkedIn:** https://www.linkedin.com/in/lindseystead  
-**Website:** https://www.lifesavertech.ca  
-
+**LinkedIn:** https://www.linkedin.com/in/lindseystead **
 ---
 
 <p align="center">
