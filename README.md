@@ -102,7 +102,7 @@ React Native mobile wellness app with chatbot + tracking tools.
 
 ## 📬 Connect
 
-**LinkedIn:** https://www.linkedin.com/in/lindseystead **
+**LinkedIn:** https://www.linkedin.com/in/lindseystead
 ---
 
 <p align="center">
