@@ -1,11 +1,12 @@
 # Hi, I'm Lindsey Stead 👋  
 **Full-Stack Developer • Support Engineer • AI Workflow Builder**
+
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=lindseystead.lindseystead)
+
 I build reliable, human-centered systems that solve real problems.  
 My background spans full-stack development, automation, AI-powered tooling, and support engineering. I focus on removing friction, improving efficiency, and designing systems that hold up under pressure.
 
 I don’t just ship code — I debug, refine, and make things *work*.
-
 ---
 
 ## 🚀 What I Do
