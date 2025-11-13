@@ -1,38 +1,51 @@
-<!-- HEADER BANNER (you can replace with an image or keep as stylised text) -->
-<h1 align="center" style="margin-bottom:0.25em;">Hi, I’m Lindsey Stead 👋</h1>
-<p align="center" style="margin-top:0;">Full-Stack Developer • Support Engineer • AI Workflow Builder</p>
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4ECDC4&height=4" width="100%" />
+</p>
+
+<h1 align="center">Hi, I'm Lindsey Stead 👋</h1>
 
 <p align="center">
-  <img height="28" src="https://img.shields.io/badge/Mom%20in%20Tech-FF6B6B?style=for-the-badge&labelColor=2C2C2C&color=FF6B6B" />
-  <img height="28" src="https://img.shields.io/badge/Women%20in%20Engineering-4ECDC4?style=for-the-badge&labelColor=2C2C2C&color=4ECDC4" />
-  <img height="28" src="https://img.shields.io/badge/Full%20Stack%20Developer-4ECDC4?style=for-the-badge&labelColor=2C2C2C&color=4ECDC4" />
-  <img height="28" src="https://img.shields.io/badge/AI%20Workflow%20Builder-FF6B6B?style=for-the-badge&labelColor=2C2C2C&color=FF6B6B" />
+  <b>Full-Stack Developer • Support Engineer • AI Workflow Builder</b>
+</p>
+
+<!-- ANIMATED TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=550&lines=Building+AI-powered+workflows;Fixing+problems+other+people+can't+debug;Designing+systems+that+don't+break;Full-stack+developer+with+range;I+build+software+that+works+%E2%80%94+and+keeps+working" />
+</p>
+
+<!-- BADGES -->
+<p align="center">
+  <img height="28" src="https://img.shields.io/badge/Mom%20in%20Tech-FF6B6B?style=for-the-badge&labelColor=2C2C2C" />
+  <img height="28" src="https://img.shields.io/badge/Women%20in%20Engineering-4ECDC4?style=for-the-badge&labelColor=2C2C2C" />
+  <img height="28" src="https://img.shields.io/badge/Full%20Stack%20Developer-4ECDC4?style=for-the-badge&labelColor=2C2C2C" />
+  <img height="28" src="https://img.shields.io/badge/AI%20Workflow%20Builder-FF6B6B?style=for-the-badge&labelColor=2C2C2C" />
 </p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lindseystead.lindseystead" />
 </p>
 
---
+---
 
-🚀 What I Do
+## 🚀 What I Do
 
-I specialise in full-stack development, automation, and AI-powered workflows that make systems faster, more reliable, and easier to use.  
-I solve problems, build tools, and support teams — all without the chaos.
+I specialise in full-stack development, automation, and AI-powered workflows that make systems faster, more reliable, and easier to use.   
+I solve problems, debug chaos, and build tools that actually help real people.
 
-My background includes:  
-- Full-stack web + mobile application engineering  
-- API integrations and workflow automation  
-- AI tooling (e.g., intelligent form systems, automation agents)  
-- Production debugging, error-handling and support engineering  
-- Scalable architecture, data modelling & system design  
+**My background includes:**
+- Full-stack web + mobile development  
+- AI tooling (intelligent form systems, automation agents)  
+- Support engineering, debugging, error handling  
+- Workflow automation & API integrations  
+- Scalable system architecture + data modelling  
 
 ---
 
 ## 🧰 Tech I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,postgres,supabase,python,php,java,git,github,vscode,figma" alt="Tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,supabase,python,php,java,mysql,mongodb,git,github,vscode,postman,figma" />
 </p>
 
 ---
@@ -40,44 +53,64 @@ My background includes:
 ## 🏗️ Projects I’m Proud Of
 
 ### 🍎 Foodbank Check-In System  
-**Full-stack, production-ready system** built to reduce check-in from 15+ minutes to under 5.  
-React • Node.js • Express • Supabase • PostgreSQL • 21k+ lines of TS  
-[Repo → foodbank-checkin-portfolio](https://github.com/lindseystead/foodbank-checkin-portfolio)
+A production-ready system built to reduce check-in waiting from 15+ minutes to under 5.  
+**21,000+ lines of TypeScript.**  
+React • Node • Express • Supabase  
+🔗 https://github.com/lindseystead/foodbank-checkin-portfolio
+
+---
 
 ### 🧾 SmartSheetConnect (Zapier Alternative)  
-Lead-capture → Google Sheets → Slack → Gmail automation tool built for businesses tired of subscription fees.  
-React • Node.js • TS • Google APIs • Zod  
-[Repo → SmartSheetConnect](https://github.com/lindseystead/SmartSheetConnect)
+Lead capture → Google Sheets → Slack → Gmail.  
+No subscription fees. No nonsense.  
+React • Node • TS • Google API  
+🔗 https://github.com/lindseystead/SmartSheetConnect
+
+---
 
 ### 💚 ResilientHQ  
-Mobile wellness app for caregivers built with React Native & Supabase: chatbot, tracking, community features.  
-[Repo → ResilientHQ](https://github.com/lindseystead/ResilientHQ)
+React Native mobile wellness app with chatbot + tracking tools.  
+🔗 https://github.com/lindseystead/ResilientHQ
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lindseystead&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindseystead&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lindseystead&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindseystead&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<!-- GITHUB GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lindseystead&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🛠️ What I’m Working On Now
+## 🛠️ What I’m Building Right Now
 
 - AI-powered universal form & PDF auto-fill system  
-- Automation tools for small business workflows  
-- Browser extension + API workflows for effortless integration  
-- Enhancing full-stack architecture patterns (Supabase, edge functions)  
+- Small-business automation tools  
+- Browser extension + API workflows  
+- New Supabase + edge function architecture patterns  
 
 ---
 
 ## 📬 Connect
 
-[LinkedIn → Lindsey Stead](https://www.linkedin.com/in/lindseystead)  
-[Website → LifesaverTech.ca](https://www.lifesavertech.ca)
+**LinkedIn:** https://www.linkedin.com/in/lindseystead  
+**Website:** https://www.lifesavertech.ca  
 
 ---
 
-<p align="center" style="margin-top:2em;"><i>I build software that works — and keeps working.</i></p>
+<p align="center">
+  <i>Reliable software. Real impact. Resilient engineer.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B6B&height=4" width="100%" />
+</p>
