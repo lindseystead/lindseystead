@@ -1,6 +1,6 @@
 👋 Hey, I'm Lindsey Stead
 
-**Support Engineer | Debugging & Troubleshooting Specialist** | Developer Tools | AI Development | Remote
+**Full-Stack Dev + Support Engineer | Debugging & Troubleshooting Specialist** | Developer Tools | AI Development | Remote
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=lindseystead.lindseystead)
 
@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a Support Engineer passionate about helping developers succeed with cutting-edge tools and AI-driven development workflows. I specialize in debugging, troubleshooting, and building error handling systems that make developer tools more reliable and easier to use.
+I'm a Full Stack Developer and a Support Engineer passionate about helping developers succeed with cutting-edge tools and AI-driven development workflows. I specialize in debugging, troubleshooting, and building error handling systems that make developer tools more reliable and easier to use.
 
 I've built everything from mobile apps with chatbots to data platforms, API integrations, AI tools, and automation scripts. My go-to stack is React, Node.js, TypeScript, Supabase, and SQL, but I'll use Python, PHP, or MongoDB if that's what the project needs.
 
@@ -22,7 +22,7 @@ I'm a mom in tech and proud to be part of the women in engineering community. I 
 
 I'm looking to work as a Support Engineer building tools for developers, automation, or AI systems. I enjoy thinking in systems, collaborating with others, solving real-world problems and engineering new ideas that can help others.
 
-> *"I don't just code — I debug, troubleshoot, and help developers succeed. And if things break, I'll figure out how to fix them."*
+> *"I don't just code — I design, model, documen, debug, troubleshoot, and help inspire ideas to help improve the lives of other people. And if things break, I'll figure out how to fix them."*
 
 ---
 
@@ -37,15 +37,15 @@ I'm looking to work as a Support Engineer building tools for developers, automat
 
 I build software that works and stays working. Fast, maintainable, and actually useful to humans.
 
-When I'm developing or debugging APIs, automating workflows, or designing interfaces, I think about the people who have to use, or want to use, what I'm building. That usually means clearer code and documentation, better UI/UX practices, and systems that don't break when you look at them wrong. Thoughtful and down-to-earth but robust and resilient.
+When I'm developing backend APIs, automating workflows, or designing interfaces, I think about the people who have to use, or want to use, what I'm building. That usually means clearer code and documentation, better UI/UX practices, and systems that don't break when you look at them wrong. Thoughtful and down-to-earth but robust and resilient.
 
 ---
 
 ## 🧩 What I Do
 
-- **Debug & Troubleshoot** complex technical issues (weird issues that shouldn't exist but somehow do)
+- **Design and Debug & Troubleshoot** complex technical issues (weird issues that shouldn't exist but somehow do)
 - **Build Error Handling Systems** (Error Boundaries, production-safe logging, error diagnostics)
-- **Handle API Errors** (authentication, rate limiting, network issues)
+- **Built Scalable and Rosbust Systems to Handle API Errors** (authentication, rate limiting, network issues)
 - **Create Documentation** and troubleshooting guides for all types of users 
 - Build full-stack web and mobile apps
 - Design and create real world tools that can make someone's day brighter and automate things they didn't know could be automated
@@ -55,7 +55,7 @@ When I'm developing or debugging APIs, automating workflows, or designing interf
 
 ## 🌟 Stuff I'm Proud Of
 
-- 🛠️ Built Error Boundary components and production-safe logging systems
+- 🛠️ Built a automated algorithmic crypto machine lesrning teading bot and also built Error Boundary components and production-safe logging systems
 - 🚀 Got comfortable with production deployments, CI/CD, and kept things running and managed domains, deployments, code-bases, logistics and dev environments, testing and all software engineering solo while building multiple apps at once
 - 🔐 Actually care about security, auth, and privacy (especially for Canadian orgs)
 - 🤖 Built AI tools using OpenAI APIs (they're pretty cool and way too much fun)
