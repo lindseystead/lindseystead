@@ -3,12 +3,16 @@
 <p align="center" style="margin-top:0;">Full-Stack Developer • Support Engineer • AI Workflow Builder</p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lindseystead.lindseystead" alt="Visitor badge"/>
-  <img src="https://img.shields.io/badge/Mom-in-Tech-#FF6B6B?style=flat" alt="Mom in Tech"/>
-  <img src="https://img.shields.io/badge/Women-in-Engineering-#4ECDC4?style=flat" alt="Women in Engineering"/>
-  <img src="https://img.shields.io/badge/TypeScript-Expert-#f0db4f?style=flat" alt="TypeScript Expert"/>
-</p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lindseystead.lindseystead" />
 
+  <img src="https://img.shields.io/badge/Mom%20in%20Tech-FF6B6B?style=flat&labelColor=2C2C2C&color=FF6B6B" />
+
+  <img src="https://img.shields.io/badge/Women%20in%20Engineering-4ECDC4?style=flat&labelColor=2C2C2C&color=4ECDC4" />
+
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-2C2C2C?style=flat&labelColor=2C2C2C&color=4ECDC4" />
+
+  <img src="https://img.shields.io/badge/AI%20Workflow%20Builder-2C2C2C?style=flat&labelColor=2C2C2C&color=FF6B6B" />
+</p>
 ---
 
 ## 🚀 What I Do
