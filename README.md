@@ -29,19 +29,13 @@ I don’t just ship code — I debug, refine, and make things *work*.
 
 ## 📌 Featured Projects
 
-### **🍎 Foodbank Check-In System**
+### **🍎 Foodbank Check-In and Appointment System**
 Production-ready full-stack system (21,628+ lines TypeScript) built for a local nonprofit.  
 Multi-language support, QR workflow, CSV-driven architecture, admin/volunteer modules, REST API, and privacy-first design.
 
 ### **🧩 SmartSheetConnect**
 React + TypeScript automation tool that collects lead data, syncs it to Excel, and sends Slack/Gmail notifications in real-time.
 
-### **🤖 AI-Powered Form Extraction (WIP)**
-An AI-driven universal form assistant:
-- Upload PDFs/Docs → AI extracts fields  
-- Browser extension auto-fills online forms  
-- Secure personal data vault  
-- Built with Supabase, Next.js, and free-tier architecture
 
 ---
 
