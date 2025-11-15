@@ -101,11 +101,11 @@ Mobile wellness app with journaling, mood tracking, and AI chatbot integration f
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lindseystead&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lindseystead&show_icons=true&theme=default&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindseystead&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindseystead&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
