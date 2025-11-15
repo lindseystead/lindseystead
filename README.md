@@ -100,17 +100,21 @@ Mobile wellness app with journaling, mood tracking, and AI chatbot integration f
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lindseystead&show_icons=true&theme=default&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lindseystead&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=C9D1D9)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lindseystead&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=C9D1D9)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=lindseystead&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)
+  
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindseystead&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=lindseystead&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lindseystead&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF)
+  
+</div>
 
 ---
 
