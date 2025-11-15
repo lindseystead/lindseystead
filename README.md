@@ -1,11 +1,14 @@
 # Hi, I'm Lindsey Stead 👋  
 **Full-Stack Software Engineer | Support Engineering | Automation & AI Workflows**
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=lindseystead)
+
 I build full-stack applications, automation tools, and AI-powered workflows that solve real problems.  
 I work with TypeScript, React, Node.js, SQL/Supabase, and modern web technologies.  
 Strong background in support engineering, debugging, system reliability, and user-focused problem-solving.
 
 ---
+
 
 ## 🚀 Technical Skills
 
