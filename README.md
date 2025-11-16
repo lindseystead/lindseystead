@@ -20,7 +20,7 @@ I build **production-ready full-stack applications**, **automation systems**, an
 
 **Specializing in:** Full-stack development (TypeScript, React, Node.js, PHP), database design, security implementation, and scalable architecture patterns.
 
-**Background:** Software engineering with strong foundation in support engineering, system reliability, and user-focused problem-solving.
+**Background:** Health Sciences, Psychology, and Computing Science — a multidisciplinary foundation that fuels my work in software engineering, support engineering, system reliability, user-centric design, privacy-first architectures, and practical, innovative problem-solving.
 
 ---
 
