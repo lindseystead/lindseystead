@@ -1,468 +1,135 @@
-# SmartSheetConnect
+# Hi, I'm Lindsey Stead 👋
 
-**Full-stack TypeScript lead capture platform** | Production-ready | Google Sheets integration
+**Full-Stack Software Engineer | Support Engineering | Automation & AI Workflows**
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.6+-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-18.3+-61DAFB?style=flat&logo=react&logoColor=white)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react&logoColor=white)](https://react.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express-4.21+-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Testing](https://img.shields.io/badge/Testing-33%20Tests-green.svg)](#testing--quality-assurance)
-[![Security](https://img.shields.io/badge/Security-Headers%20%7C%20Rate%20Limited%20%7C%20Honeypot-brightgreen.svg)](#security-implementation)
-[![Google APIs](https://img.shields.io/badge/Google%20APIs-Sheets%20%7C%20Drive%20%7C%20Gmail-blue.svg)](#tech-stack)
+[![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15+-316192?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-Auth%20%7C%20DB-3ECF8E?style=flat&logo=supabase&logoColor=white)](https://supabase.com/)
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=lindseystead)
+![GitHub Followers](https://img.shields.io/github/followers/lindseystead?style=flat&label=Followers&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/lindseystead?style=flat&label=Stars&color=yellow)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=lindseystead.smartsheet-connect)
+I build **production-ready full-stack applications**, **automation systems**, and **AI-powered workflows** that solve real-world problems.
 
-![Last Commit](https://img.shields.io/github/last-commit/lindseystead/SmartSheetConnect)
+**Specializing in:** Full-stack development (TypeScript, React, Node.js, PHP), database design, security implementation, and scalable architecture patterns.
 
-**Live Demo:** Coming Soon
-
-> **Note:** Developed as a production-ready full-stack application with complete backend, frontend, and Google Cloud integration. This application automatically logs form submissions to Google Sheets and sends real-time notifications via email and Slack.
-
----
-
-## 📸 Screenshots
-
-### Landing Page
-![Landing Page](./assets/screenshot-landing.png)
-*Modern landing page with hero section, features overview, and lead capture form*
-
-### Contact Form
-![Contact Form](./assets/screenshot-form.png)
-*Lead capture form with real-time validation and Google Sheets integration*
-
-### How It Works
-![How It Works](./assets/screenshot-howitworks.png)
-*Visual explanation of the automated lead capture and logging process*
+**Background:** Health Sciences, Psychology, and Computing Science — a multidisciplinary foundation that fuels my work in software engineering, support engineering, system reliability, user-centric design, privacy-first architectures, and practical, innovative problem-solving.
 
 ---
 
-## 🎯 What It Does
+## 🚀 Technical Skills
 
-Production-ready lead capture platform that automatically logs form submissions to Google Sheets and sends real-time notifications. Features intelligent spreadsheet management, spam protection, and seamless Google Cloud integration.
+### Frontend Development
+**React** · **TypeScript** · **JavaScript** · **HTML5** · **CSS3** · **Tailwind CSS** · **Bootstrap** · **Chakra UI**
 
-**Impact:**
-- **Zero manual data entry** - All leads automatically logged to Google Sheets
-- **Intelligent spreadsheet management** - Auto-creates and reuses spreadsheets
-- **Real-time notifications** - Email and Slack alerts for new submissions
-- **Enterprise-ready** - Production-grade security and error handling
-- **Developer-friendly** - TypeScript throughout with comprehensive testing
+### Backend Development
+**Node.js** · **Express** · **PHP** · **RESTful APIs** · **GraphQL** · **Microservices Architecture**
 
----
+### Databases & Data
+**PostgreSQL** · **MySQL** · **MariaDB** · **Supabase** · **Firebase** · **Database Design** · **Query Optimization**
 
-## 📊 By The Numbers
+### AI & Automation
+**OpenAI API** · **Google APIs** · **Slack/Gmail Automations** · **Python** · **Bash Scripting** · **Workflow Automation**
 
-| Metric | Value |
-|--------|-------|
-| **Codebase** | 60+ TypeScript files, 5,000+ lines |
-| **API Endpoints** | 2 RESTful endpoints |
-| **Service Integrations** | 4 core services (Google Sheets, Gmail, Slack, Storage) |
-| **UI Components** | 55+ React components (including shadcn/ui) |
-| **Test Coverage** | 33 comprehensive tests |
-| **Security** | Security headers (Helmet.js), honeypot spam protection, rate limiting |
-| **Google APIs** | Sheets, Drive, Gmail integration |
+### DevOps & Deployment
+**Git** · **GitHub** · **Linux** · **Docker** · **Railway** · **Vercel** · **CI/CD** · **Environment Management**
+
+### Security & Compliance
+**CSRF Protection** · **SQL Injection Prevention** · **XSS Protection** · **PIPEDA Compliance** · **WCAG 2.1 AA Accessibility**
 
 ---
 
-## 🏗️ Architecture
+## 🏗️ Featured Projects
 
-**Full-Stack TypeScript with Express Backend and React Frontend**
+### 🐾 Pawsitive Placements
+**Full-stack PHP/MySQL pet adoption platform** | Production-ready | BC PIPA-compliant
 
-```
-┌─────────────────────────────────┐
-│  Frontend (React 18)            │  Vite | React Hook Form | Zod
-│  - Lead Capture Form            │  TanStack Query | Tailwind CSS
-│  - Real-time Validation         │  shadcn/ui Components
-└──────────────┬──────────────────┘
-               │ HTTP/REST
-┌──────────────▼──────────────────┐
-│  Backend (Express + TypeScript) │  Express | TypeScript | Zod
-│  - API Routes                    │  Rate Limiting | Helmet.js
-│  - Request Validation            │  CORS | Compression
-└──────────────┬──────────────────┘
-               │
-┌──────────────▼──────────────────┐
-│  Services Layer                  │
-│  ┌────────────────────────────┐ │
-│  │ Storage Service            │ │  Google Sheets Integration
-│  │ Email Service              │ │  Gmail API
-│  │ Slack Service              │ │  Webhooks
-│  └────────────────────────────┘ │
-└──────────────┬──────────────────┘
-               │
-┌──────────────▼──────────────────┐
-│  Google Cloud APIs              │  Sheets API | Drive API | Gmail API
-│  - OAuth2 Authentication         │  Auto-spreadsheet Management
-│  - Spreadsheet Operations        │  Email Notifications
-└─────────────────────────────────┘
-```
+Production-ready pet adoption platform connecting pet owners with potential adopters across British Columbia. Features user management, advanced pet search, adoption applications, community forum, comprehensive admin panel, and enterprise-level SEO optimization.
 
-**Key Design Decisions:**
-- **TypeScript Throughout:** Type safety from frontend to backend
-- **Zod Validation:** Runtime validation matching TypeScript types
-- **Service Layer:** Clean separation of business logic
-- **Auto-Spreadsheet Management:** Intelligent creation and reuse
-- **Non-blocking Notifications:** Email/Slack failures don't break submissions
-- **Production-Ready:** Comprehensive error handling and logging
+**Tech Stack:** PHP 8.2+ · MariaDB · Bootstrap 4.5 · MVC Architecture · RESTful API
+
+**Key Features:** 71 PHP files, 14,110+ lines · 15+ normalized database tables · 10+ RESTful AJAX endpoints · 100% CSRF-protected · Enterprise SEO
+
+🔗 **Live Demo:** [www.pawsitiveplacements.ca](https://www.pawsitiveplacements.ca)  
+🔗 **Portfolio:** [github.com/lindseystead/pawsitive-placements-portfolio](https://github.com/lindseystead/pawsitive-placements-portfolio)
 
 ---
 
-## 🛠️ Tech Stack
+### 🍎 Foodbank Check-In System
+**Full-stack TypeScript application** | Production-ready | PIPEDA-compliant
 
-**Backend:** Node.js 18+ | Express 4.21+ | TypeScript 5.6+ | Google APIs (Sheets, Drive, Gmail) | OAuth2
+Production-ready system that reduced client check-in time from 15+ minutes to under 5 minutes. Features QR code workflow, multi-language support (7 languages), CSV-first architecture, and real-time analytics dashboard.
 
-**Frontend:** React 18.3+ | TypeScript | Vite 7+ | React Hook Form | Zod | TanStack Query | Tailwind CSS | shadcn/ui
+**Tech Stack:** React 18 · TypeScript · Node.js · Express · Supabase · PostgreSQL
 
-**Testing:** Vitest | React Testing Library | Supertest | 33 comprehensive tests
+**Key Features:** 21,628+ lines of TypeScript · 31 RESTful endpoints · 28 React components · 67% time reduction · WCAG 2.1 AA compliant
 
-**Security:** Helmet.js | express-rate-limit | CORS | Honeypot spam protection | Input validation
-
-**DevOps:** Vite build | esbuild bundling | Environment variables | Railway deployment ready
-
-**Integrations:** Google Sheets API | Google Drive API | Gmail API | Slack Webhooks
+🔗 **Live Demo:** [Client Check-In](https://foodbank-checkin-tan.vercel.app/) | [Admin Dashboard](https://foodbank-checkin.vercel.app/login)  
+🔗 **Portfolio:** [github.com/lindseystead/foodbank-checkin-portfolio](https://github.com/lindseystead/foodbank-checkin-portfolio)
 
 ---
 
-## 🔒 Security Implementation
+### 🧾 SmartSheetConnect (Lead Automation System)
+**Automated lead capture and notification system**
 
-- ✅ **Security Headers:** Helmet.js with Content Security Policy and secure HTTP headers
-- ✅ **SQL Injection Prevention:** N/A (NoSQL/API-based, no raw queries)
-- ✅ **XSS Prevention:** React's built-in XSS protection + input sanitization
-- ✅ **Rate Limiting:** 100 requests per 15 minutes per IP address
-- ✅ **Honeypot Spam Protection:** Hidden field detection for bot filtering
-- ✅ **Input Validation:** Zod schemas on both client and server
-- ✅ **Request Size Limits:** 10MB maximum payload size
-- ✅ **Environment Variables:** All sensitive data in `.env` (never committed)
-- ✅ **OAuth2 Security:** Secure token refresh and credential management
+Captures website leads → logs to Google Sheets → sends Slack + Gmail notifications. Streamlines lead management workflow with real-time automation.
+
+**Tech Stack:** Node.js · Express · Google APIs · React
+
+🔗 **Repository:** [github.com/lindseystead/SmartSheetConnect](https://github.com/lindseystead/SmartSheetConnect)
 
 ---
 
-## 🗄️ Google Sheets Integration
+### 💚 ResilientHQ (Mobile App)
+**React Native wellness application**
 
-**Intelligent spreadsheet management with automatic creation and reuse.**
+Mobile wellness app with journaling, mood tracking, and AI chatbot integration for mental health support.
 
-### Spreadsheet Management
+**Tech Stack:** React Native · TypeScript · AI Integration
 
-- **Auto-Creation:** Creates spreadsheet on first submission if none exists
-- **Auto-Discovery:** Searches for existing spreadsheet by organization name
-- **Auto-Persistence:** Automatically saves `SPREADSHEET_ID` to `.env` file
-- **Manual Override:** Set `SPREADSHEET_ID` in `.env` for specific spreadsheet
-- **Duplicate Prevention:** Always reuses same spreadsheet across server restarts
-
-### Spreadsheet Structure
-
-- **Sheet Name:** `Leads`
-- **Columns:** Timestamp | Name | Email | Phone | Message
-- **Title Format:** `SmartSheetConnect - [Organization Name] - Website Form Leads`
-- **Organization Name:** Uses `ORGANIZATION_NAME` or `COMPANY_NAME` from `.env`
-
-### Key Features
-
-- Automatic header row creation on new spreadsheets
-- Human-readable timestamp formatting
-- Row number tracking for reference
-- Error handling with graceful fallbacks
-- Drive API integration for spreadsheet discovery
-
-**See:** `server/services/googleSheets.ts` for complete implementation
+🔗 **Repository:** [github.com/lindseystead/ResilientHQ](https://github.com/lindseystead/ResilientHQ)
 
 ---
 
-## 🧪 Testing & Quality Assurance
+## 📊 GitHub Statistics
 
-**Comprehensive testing approach ensuring production-ready reliability.**
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lindseystead&show_icons=true&theme=radical&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=C9D1D9)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lindseystead&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=C9D1D9)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=lindseystead&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)
+  
+</div>
 
-### Testing Methodology
-
-- **Unit Tests:** Schema validation, service functions
-- **Integration Tests:** API endpoint testing with Supertest
-- **Component Tests:** React component behavior with React Testing Library
-- **Security Testing:** Honeypot validation, rate limiting verification
-- **Error Handling:** Comprehensive error scenario coverage
-
-### Test Coverage
-
-✅ **Schema Validation:** 15 tests covering all validation rules  
-✅ **API Endpoints:** 8 tests for `/api/submit-lead` and `/api/health`  
-✅ **React Components:** 10 tests for form behavior and user interactions  
-✅ **Security:** Honeypot detection, validation errors, spam protection  
-✅ **Error Handling:** Storage failures, API errors, network issues  
-
-### Quality Metrics
-
-- **Test Count:** 33 comprehensive tests
-- **Code Quality:** TypeScript strict mode, consistent structure
-- **Security:** Security headers (Helmet.js), zero SQL injection vulnerabilities, comprehensive input validation
-- **Performance:** Optimized API calls, efficient spreadsheet operations
-- **Maintainability:** Clean architecture, separation of concerns, reusable components
-
-**Run Tests:**
-```bash
-npm test              # Watch mode
-npm run test:coverage # With coverage report
-npm run test:run      # CI mode (single run)
-```
+<div align="center">
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lindseystead&theme=redical&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FF6B9D&point=FFFFFF)
+  
+</div>
 
 ---
 
-## 💼 Engineering Skills Demonstrated
 
-- **Full-Stack Development:** React frontend + Express backend with TypeScript
-- **API Integration:** Google Sheets, Drive, and Gmail APIs with OAuth2
-- **Type Safety:** End-to-end TypeScript with Zod runtime validation
-- **Security:** Security headers (Helmet.js), rate limiting, honeypot spam protection, input validation
-- **Testing:** Comprehensive test suite with Vitest, React Testing Library, Supertest
-- **User Experience:** Real-time form validation, responsive design, intuitive UI
-- **DevOps:** Production builds, environment configuration, deployment ready
-- **Error Handling:** Graceful error handling, non-blocking notifications
-- **Code Quality:** Professional documentation, consistent structure, type safety
-- **Third-Party Integration:** Google Cloud APIs, Slack webhooks, OAuth2 flows
+## 📬 Connect & Collaborate
+
+**LinkedIn:** [linkedin.com/in/lindseystead](https://www.linkedin.com/in/lindseystead)  
+**GitHub:** [github.com/lindseystead](https://github.com/lindseystead)  
+**Portfolio:** Available for technical review and code evaluation
+
+**Open to:** Full-stack development opportunities, software engineering roles, and collaborative projects.
 
 ---
 
-## 📁 Project Structure
+<p align="center">
+  <i>Building production-ready solutions that make a difference.</i>
+</p>
 
-```
-SmartSheetConnect/
-├── client/                    # React frontend
-│   ├── src/
-│   │   ├── components/       # React components
-│   │   │   ├── ui/           # shadcn/ui components (55+ files)
-│   │   │   ├── DemoFormSection.tsx
-│   │   │   ├── FeaturesSection.tsx
-│   │   │   ├── Footer.tsx
-│   │   │   ├── Header.tsx
-│   │   │   ├── HeroSection.tsx
-│   │   │   ├── HowItWorksSection.tsx
-│   │   │   └── SocialProofSection.tsx
-│   │   ├── hooks/            # Custom React hooks
-│   │   ├── lib/              # Utilities (queryClient, utils)
-│   │   ├── pages/            # Page components
-│   │   └── main.tsx         # Entry point
-│   └── index.html
-├── server/                    # Express backend
-│   ├── services/             # Business logic services
-│   │   ├── email.ts          # Gmail API integration
-│   │   ├── googleSheets.ts   # Google Sheets operations
-│   │   ├── slack.ts          # Slack webhook integration
-│   │   └── storage.ts        # Storage interface
-│   ├── routes.ts             # API endpoints
-│   ├── index.ts              # Server entry point
-│   └── utils/                # Server utilities
-├── shared/                    # Shared code
-│   ├── schema.ts             # Zod schemas
-│   └── schema.test.ts        # Schema tests
-├── assets/                    # Images and screenshots
-└── package.json
-```
-
----
-
-## 🚀 Quick Start
-
-```bash
-# 1. Clone repository
-git clone https://github.com/lindseystead/SmartSheetConnect.git
-cd SmartSheetConnect/SmartSheetConnect
-
-# 2. Install dependencies
-npm install
-
-# 3. Configure environment variables
-# Create .env file with:
-#   GOOGLE_CLIENT_ID=your-client-id
-#   GOOGLE_CLIENT_SECRET=your-client-secret
-#   GOOGLE_REFRESH_TOKEN=your-refresh-token
-#   NOTIFICATION_EMAIL=your-email@example.com
-#   ORGANIZATION_NAME=Your Company Name
-#   (See Configuration section below for full list)
-
-# 4. Start development server
-npm run dev
-
-# 5. Visit http://localhost:5000
-```
-
-**For detailed setup instructions, see [Configuration](#configuration) section below.**
-
----
-
-## ⚙️ Configuration
-
-### Prerequisites
-
-- Node.js 18+ and npm
-- Google Cloud account
-- Google Cloud project with APIs enabled
-
-### Google Cloud Setup
-   
-   **Step 1: Create Project & Enable APIs**
-   - Create a Google Cloud project at [console.cloud.google.com](https://console.cloud.google.com)
-   - Enable required APIs:
-     - **Google Sheets API** (required) - [Enable](https://console.cloud.google.com/apis/library/sheets.googleapis.com)
-     - **Google Drive API** (recommended) - [Enable](https://console.cloud.google.com/apis/library/drive.googleapis.com)
-     - **Gmail API** (optional, for email notifications) - [Enable](https://console.cloud.google.com/apis/library/gmail.googleapis.com)
-   
-   **Step 2: Create OAuth Credentials**
-   - Go to "APIs & Services" → "Credentials"
-   - Click "Create Credentials" → "OAuth client ID"
-   - If prompted, configure OAuth consent screen first
-   - Application type: "Web application"
-   - Copy your **Client ID** and **Client Secret**
-   
-   **Step 3: Generate Refresh Token**
-   - Go to [OAuth 2.0 Playground](https://developers.google.com/oauthplayground/)
-   - Click **Settings** (gear icon) → Check **"Use your own OAuth credentials"**
-   - Enter your **Client ID** and **Client Secret**
-   - In **Step 1**, select these scopes:
-     - `https://www.googleapis.com/auth/spreadsheets`
-     - `https://www.googleapis.com/auth/drive`
-     - `https://www.googleapis.com/auth/gmail.send` (if using email notifications)
-   - Click **"Authorize APIs"** and sign in with your Google account
-   - In **Step 2**, click **"Exchange authorization code for tokens"**
-   - Copy the **Refresh token** (starts with `1//0...`)
-
-### Environment Variables
-   
-Create `.env` file in project root:
-   
-   ```env
-   # Required
-   GOOGLE_CLIENT_ID=your-client-id
-   GOOGLE_CLIENT_SECRET=your-client-secret
-   GOOGLE_REFRESH_TOKEN=your-refresh-token
-   NOTIFICATION_EMAIL=your-email@example.com
-
-   # Optional
-ORGANIZATION_NAME=Your Company Name  # or use COMPANY_NAME (both supported)
-SPREADSHEET_ID=existing-spreadsheet-id  # Auto-saved after first creation
-   SLACK_WEBHOOK_URL=https://hooks.slack.com/services/...
-   PORT=5000
-   HOST=localhost
-   ALLOWED_ORIGINS=https://yoursite.com
-   ```
-
-### Slack Setup (Optional)
-
-1. Create Slack app at [api.slack.com/apps](https://api.slack.com/apps)
-2. Enable "Incoming Webhooks" feature
-3. Add webhook to workspace and copy URL
-4. Add to `.env` as `SLACK_WEBHOOK_URL`
-
-### Need Setup Help?
-
-Setting up Google Cloud credentials and deploying can be complex. **Professional setup services are available:**
-
-- ✅ Google Cloud project configuration
-- ✅ OAuth credentials setup
-- ✅ Railway deployment assistance
-- ✅ Testing and verification
-- ✅ Custom domain configuration (optional)
-
-**Contact:** [info@lifesavertech.ca](mailto:info@lifesavertech.ca) or visit [lifesavertech.ca](https://www.lifesavertech.ca)
-
-For commercial licensing options, see [LICENSING.md](./LICENSING.md).
-
----
-
-## 📡 API Endpoints
-
-### `POST /api/submit-lead`
-
-Submits a new lead submission.
-
-**Request:**
-```json
-{
-  "name": "John Doe",
-  "email": "john@example.com",
-  "phone": "(555) 123-4567",  // optional
-  "message": "Interested in your services"
-}
-```
-
-**Response:**
-```json
-{
-  "success": true,
-  "message": "Lead submitted successfully",
-  "rowNumber": 2
-}
-```
-
-**Error Responses:**
-- `400` - Validation error (invalid input data)
-- `429` - Too many requests (rate limited)
-- `500` - Server error (internal error)
-
-### `GET /api/health`
-
-Returns server health status.
-
-**Response:**
-```json
-{
-  "status": "ok",
-  "timestamp": "2025-01-20T15:30:00.000Z",
-  "uptime": 3600
-}
-```
-
----
-
-## 🚢 Deployment
-
-### Railway Deployment (Quick Start)
-
-1. **Push to GitHub** - Ensure your code is in a GitHub repository
-2. **Create Railway Account** - Go to [railway.app](https://railway.app) and sign up
-3. **Deploy from GitHub** - Connect your repository
-4. **Add Environment Variables** - Copy all variables from your `.env` file to Railway's Variables tab
-5. **Deploy** - Railway automatically builds and deploys
-
----
-
-## 🔐 Code Access
-
-**This is open-source software under MIT License.** Source code is available for use, modification, and distribution.
-
-**For Portfolio Review:**
-- ✅ **Code Review:** Full codebase available on GitHub
-- ✅ **Code Inspection:** Feel free to inspect the codebase
-- ✅ **Interview Discussion:** Project can be discussed in interviews
-- ✅ **Learning Resource:** Use as reference for similar projects
-
-**For Commercial Use:**
-- This software is available under MIT License for commercial use
-- Commercial licensing options available for enterprise features
-- Setup and support services available
-- **Licensing inquiries:** Lifesaver Technology Services (info@lifesavertech.ca)
-
----
-
-## 📄 License & Intellectual Property
-
-**License:** MIT License - see [LICENSE](LICENSE) file.
-
-**Intellectual Property:** This project was designed, created, and implemented by **Lindsey D. Stead** (sole proprietor of Lifesaver Technology Services).
-
-**Copyright © 2025 Lindsey D. Stead. All Rights Reserved.**
-
-**Business Licensing:** Lifesaver Technology Services is the authorized agent for commercial licensing, setup services, and support inquiries.
-
-**Open Source Project** - This repository is available under MIT license for portfolio, learning, and commercial use.
-
-**For Recruiters & Hiring Managers:**
-- ✅ **Portfolio Review:** Feel free to review this code for evaluation purposes
-- ✅ **Code Inspection:** You may inspect the codebase to assess technical skills
-- ✅ **Interview Discussion:** This project can be discussed in interviews
-
-**For Commercial Use:**
-- This software is available under MIT License for open-source use
-- Commercial licensing options available for enterprise features and support
-- **Licensing inquiries:** Lifesaver Technology Services (info@lifesavertech.ca)
-
----
-
-**Built with ❤️ for automated lead capture and seamless Google Sheets integration.**
