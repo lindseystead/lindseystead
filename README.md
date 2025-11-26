@@ -1,4 +1,4 @@
-# Hi, I'm Lindsey Stead 👋
+# Hi, I'm Lindsey Stead
 
 **Full-Stack Software Engineer | Support Engineering | Automation & AI Workflows**
 
@@ -15,9 +15,9 @@
 ![GitHub Followers](https://img.shields.io/github/followers/lindseystead?style=flat&label=Followers&color=blue)
 ![GitHub Stars](https://img.shields.io/github/stars/lindseystead?style=flat&label=Stars&color=yellow)
 
-I build **production-ready full-stack applications**, **automation systems**, and **AI-powered workflows** that solve real-world problems.
+I build **production-ready full-stack applications**, **automation systems**, and **AI-powered workflows** and am passionate about solving real-world problems using technology that make an impact.
 
-**Specializing in:** Full-stack development (TypeScript, React, Node.js, PHP), database design, security implementation, and scalable architecture patterns.
+**Specializing in:** Full-stack development (TypeScript, React, Node.js, PHP), databases, security implementation, and scalable software engineering patterns.
 
 **Background:** Health Sciences, Psychology, and Computing Science — a multidisciplinary foundation that fuels my work in software engineering, support engineering, system reliability, user-centric design, privacy-first architectures, and practical, innovative problem-solving.
 
@@ -60,7 +60,7 @@ Production-ready pet adoption platform connecting pet owners with potential adop
 
 **Tech Stack:** PHP 8.2+ · MariaDB · Bootstrap 4.5 · MVC Architecture · RESTful API
 
-**Key Features:** 71 PHP files, 14,110+ lines · 15+ normalized database tables · 10+ RESTful AJAX endpoints · 100% CSRF-protected · Enterprise SEO
+**Key Features:** 71 PHP files, 14,000+ lines · 15+ normalized database tables · 10+ RESTful AJAX endpoints · 100% CSRF-protected · Enterprise SEO
 
 🔗 **Live Demo: (COMING SOON) ** [www.pawsitiveplacements.ca](https://www.pawsitiveplacements.ca)  
 🔗 **Portfolio:** [github.com/lindseystead/pawsitive-placements-portfolio](https://github.com/lindseystead/pawsitive-placements-portfolio)
@@ -83,7 +83,7 @@ Designed to help small businesses manage incoming leads without manual effort.
 ### 💚 ResilientHQ (Mobile App)
 **React Native wellness application**
 
-A React Native mobile app focused on journaling, mood tracking, community, and advicce features
+A React Native mobile app focused on journaling, mood tracking, community, and advice features
 Built with TypeScript and integrated with an OpenAI Chat bot.
 
 **Tech Stack:** React Native · TypeScript · AI Integration
