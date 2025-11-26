@@ -11,7 +11,6 @@
 [![Supabase](https://img.shields.io/badge/Supabase-Auth%20%7C%20DB-3ECF8E?style=flat&logo=supabase&logoColor=white)](https://supabase.com/)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=lindseystead)
 ![GitHub Followers](https://img.shields.io/github/followers/lindseystead?style=flat&label=Followers&color=blue)
 ![GitHub Stars](https://img.shields.io/github/stars/lindseystead?style=flat&label=Stars&color=yellow)
@@ -23,42 +22,18 @@ I build **production-ready full-stack applications**, **automation systems**, an
 **Background:** Health Sciences, Psychology, and Computing Science — a multidisciplinary foundation that fuels my work in software engineering, support engineering, system reliability, user-centric design, privacy-first architectures, and practical, innovative problem-solving.
 
 ---
+## Technical Foundation
 
-## 🚀 Technical Skills
+- **Frontend:** React, React Native, TypeScript/JavaScript, Vite, Chakra UI, and Tailwind CSS. Experience building responsive, WCAG-compliant interfaces.  
+- **Backend & APIs:** Node.js with Express, REST and GraphQL services, Supabase/Firebase integrations, PHP for legacy systems, and microservice-style API design.  
+- **Systems & DevOps:** Linux/Ubuntu/Kali, Docker, Git/GitHub workflows, Railway/Vercel deployments, CI/CD pipelines, environment and configuration management, and Bash/command-line tooling.  
+- **Databases & Data:** PostgreSQL, MySQL/MariaDB, schema design, indexing and query optimization, and real-time sync patterns.  
+- **Automation & AI:** Python, OpenAI and Google APIs, Slack/Gmail workflow automation, prompt/system design, and end-to-end workflow automation tooling.  
+- **Security & Privacy:** PKCE/Supabase authentication, CSRF/SQLi/XSS prevention, privacy-focused practices (PIPEDA), and WCAG 2.1 AA accessibility.  
+- **Systems Exposure:** Familiar with C, C++, C#, and Java for maintenance, integration, or stack-specific tasks.  
+- **Architecture & Process:** End-to-end system design across frontend, backend, and deployment layers. Experience documenting engineering decisions, conducting code reviews, and maintaining CI-backed release processes.
 
-### Frontend Development
-**React** · **TypeScript** · **JavaScript** · **HTML5** · **CSS3** · **Tailwind CSS** · **Bootstrap** · **Chakra UI**
-
-### Backend Development
-**Node.js** · **Express** · **PHP** · **RESTful APIs** · **GraphQL** · **Microservices Architecture**
-
-### Databases & Data
-**PostgreSQL** · **MySQL** · **MariaDB** · **Supabase** · **Firebase** · **Database Design** · **Query Optimization**
-
-### AI & Automation
-**OpenAI API** · **Google APIs** · **Slack/Gmail Automations** · **Python** · **Bash Scripting** · **Workflow Automation**
-
-### DevOps & Deployment
-**Git** · **GitHub** · **Linux** · **Docker** · **Railway** · **Vercel** · **CI/CD** · **Environment Management**
-
-### Security & Compliance
-**CSRF Protection** · **SQL Injection Prevention** · **XSS Protection** · **PIPEDA Compliance** · **WCAG 2.1 AA Accessibility**
-
----
-
-## 🏗️ Featured Projects
-
-### 🐾 Pawsitive Placements
-**Full-stack PHP/MySQL pet adoption platform** | Production-ready | BC PIPA-compliant
-
-Production-ready pet adoption platform connecting pet owners with potential adopters across British Columbia. Features user management, advanced pet search, adoption applications, community forum, comprehensive admin panel, and enterprise-level SEO optimization.
-
-**Tech Stack:** PHP 8.2+ · MariaDB · Bootstrap 4.5 · MVC Architecture · RESTful API
-
-**Key Features:** 71 PHP files, 14,110+ lines · 15+ normalized database tables · 10+ RESTful AJAX endpoints · 100% CSRF-protected · Enterprise SEO
-
-🔗 **Live Demo:** [www.pawsitiveplacements.ca](https://www.pawsitiveplacements.ca)  
-🔗 **Portfolio:** [github.com/lindseystead/pawsitive-placements-portfolio](https://github.com/lindseystead/pawsitive-placements-portfolio)
+**Currently exploring:** Go, Dart/Flutter, advanced data analysis, and data scraping techniques.
 
 ---
 
@@ -76,10 +51,28 @@ Production-ready system that reduced client check-in time from 15+ minutes to un
 
 ---
 
+## 🏗️ Featured Projects
+
+### 🐾 Pawsitive Placements
+**Full-stack PHP/MySQL pet adoption platform** | Production-ready | BC PIPA-compliant
+
+Production-ready pet adoption platform connecting pet owners with potential adopters across British Columbia. Features user management, advanced pet search, adoption applications, community forum, comprehensive admin panel, and enterprise-level SEO optimization.
+
+**Tech Stack:** PHP 8.2+ · MariaDB · Bootstrap 4.5 · MVC Architecture · RESTful API
+
+**Key Features:** 71 PHP files, 14,110+ lines · 15+ normalized database tables · 10+ RESTful AJAX endpoints · 100% CSRF-protected · Enterprise SEO
+
+🔗 **Live Demo: (COMING SOON) ** [www.pawsitiveplacements.ca](https://www.pawsitiveplacements.ca)  
+🔗 **Portfolio:** [github.com/lindseystead/pawsitive-placements-portfolio](https://github.com/lindseystead/pawsitive-placements-portfolio)
+
+
+---
+
 ### 🧾 SmartSheetConnect (Lead Automation System)
 **Automated lead capture and notification system**
 
-Captures website leads → logs to Google Sheets → sends Slack + Gmail notifications. Streamlines lead management workflow with real-time automation.
+A workflow automation tool for capturing website leads and synchronizing them with Google Sheets, Slack, and Gmail.
+Designed to help small businesses manage incoming leads without manual effort.
 
 **Tech Stack:** Node.js · Express · Google APIs · React
 
@@ -90,7 +83,8 @@ Captures website leads → logs to Google Sheets → sends Slack + Gmail notific
 ### 💚 ResilientHQ (Mobile App)
 **React Native wellness application**
 
-Mobile wellness app with journaling, mood tracking, and AI chatbot integration for mental health support.
+A React Native mobile app focused on journaling, mood tracking, community, and advicce features
+Built with TypeScript and integrated with an OpenAI Chat bot.
 
 **Tech Stack:** React Native · TypeScript · AI Integration
 
