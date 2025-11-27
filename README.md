@@ -69,7 +69,7 @@ I build **production-ready full-stack applications**, **automation systems**, an
 **Background:** Health Sciences, Psychology, and Computing Science — a multidisciplinary foundation that fuels my work in software engineering, support engineering, system reliability, user-centric design, privacy-first architectures, and practical, innovative problem-solving.
 
 ---
-## Technical Foundation
+## Technical Experiences
 
 - **Frontend:** React, React Native, TypeScript/JavaScript, Vite, Chakra UI, and Tailwind CSS. Experience building responsive, WCAG-compliant interfaces.  
 - **Backend & APIs:** Node.js with Express, REST and GraphQL services, Supabase/Firebase integrations, PHP for legacy systems, and microservice-style API design.  
@@ -78,9 +78,7 @@ I build **production-ready full-stack applications**, **automation systems**, an
 - **Automation & AI:** Python, OpenAI and Google APIs, Slack/Gmail workflow automation, prompt/system design, and end-to-end workflow automation tooling.  
 - **Security & Privacy:** PKCE/Supabase authentication, CSRF/SQLi/XSS prevention, privacy-focused practices (PIPEDA), and WCAG 2.1 AA accessibility.  
 - **Systems Exposure:** Familiar with C, C++, C#, and Java for maintenance, integration, or stack-specific tasks.  
-- **Architecture & Process:** End-to-end system design across frontend, backend, and deployment layers. Experience documenting engineering decisions, conducting code reviews, and maintaining CI-backed release processes.
-
-**Currently exploring:** Go, Dart/Flutter, advanced data analysis, and data scraping techniques.
+- **Architecture & Process:** End-to-end system design across frontend, backend, and deployment layers. Experience documenting engineering decisions, conducting code reviews, and maintaining CI-backend.
 
 ---
 
