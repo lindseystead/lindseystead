@@ -100,7 +100,7 @@ Built with TypeScript and integrated with an OpenAI Chat bot.
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lindseystead&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B9D&text_color=C9D1D9)
   
-  ![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=lindseystead&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=lindseystead&theme=radical&hide_border=true&background=0D1117&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D)
   
 </div>
 
