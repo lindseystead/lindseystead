@@ -1,11 +1,5 @@
 # Hi, I'm Lindsey Stead
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lindseystead" />
-  <img src="https://img.shields.io/github/followers/lindseystead?style=flat&label=Followers&color=blue" />
-  <img src="https://img.shields.io/github/stars/lindseystead?style=flat&label=Stars&color=yellow" />
-</p>
-
 **Full-Stack Software Engineer | AI & Automation | Support Engineering**
 
 I’m a full-stack software engineer with experience across development, automation, systems design, and support engineering. I specialize in React, React Native, Node.js, TypeScript, SQL, and cloud deployments.
@@ -55,6 +49,13 @@ I build scalable products, design secure REST APIs, automate workflows, and trou
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 
 </p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lindseystead" />
+  <img src="https://img.shields.io/github/followers/lindseystead?style=flat&label=Followers&color=blue" />
+  <img src="https://img.shields.io/github/stars/lindseystead?style=flat&label=Stars&color=yellow" />
+</p>
+
 
 ---
 
