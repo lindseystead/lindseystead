@@ -1,10 +1,9 @@
 # Hi, I'm Lindsey Stead
 
-**Full-Stack Software Engineer | AI & Automation | Support Engineering**
+**Full-Stack Software Engineer • React • React Native • Node.js • TypeScript • AI & Automation**
 
-I’m a full-stack software engineer with experience across development, automation, systems design, and support engineering. I specialize in React, React Native, Node.js, TypeScript, SQL, and cloud deployments.
+I design and build production-ready software end-to-end, from clean UI/UX to scalable backend systems. I also specialize in automation and AI-powered workflows that reduce complexity and make technology more intuitive for real users. My background in Computing Science, Health Science, and Psychology strengthens how I design systems, solve problems, understand users, and ship reliable, human-centered products.
 
-I build scalable products, design secure REST APIs, automate workflows, and troubleshoot production issues with clarity and reliability. My multidisciplinary background in Computing Science, Health Science, and Psychology strengthens how I design systems, debug issues, communicate with users, and deliver real-world solutions.
 
 ---
 
