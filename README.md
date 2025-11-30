@@ -69,14 +69,6 @@ I design and build production-ready software end-to-end, from clean UI/UX to sca
 
 ---
 
-### 🐾 Pawsitive Placements  
-**12k-line PHP/MySQL platform** for adoption & rehoming with authentication, messaging, admin tools, MVC architecture, and **6+ security protections (CSRF/SQLi/XSS).**
-
-**Tech:** PHP · MySQL · MVC  
-🔗 Repo: https://github.com/lindseystead/pawsitive-placements-portfolio
-
----
-
 ### 🧾 SmartSheetConnect  
 **17k-line full-stack automation system** syncing leads to Google Sheets, Slack, and Gmail with AI enrichment, scoring, duplicate detection, and secure REST APIs.
 
