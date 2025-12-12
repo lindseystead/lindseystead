@@ -38,10 +38,34 @@ React Native mental-wellness companion with offline-first architecture, secure a
 
 ## 🛠 Core Technologies
 
-**Frontend:** React, React Native, TypeScript, Tailwind  
-**Backend:** Node.js, Express, PostgreSQL, Supabase  
-**DevOps & Tools:** Git, Postman, AWS, Firebase, Vercel, Railway  
-**Specialties:** UX-aware engineering, automation workflows, API design, system architecture, AI integrations
+**Frontend**
+- React, React Native, TypeScript, Tailwind  
+- Component-driven UI, state management, responsive & mobile-first design
+
+**Backend**
+- Node.js, Express, Python  
+- REST APIs, authentication flows, business logic, data validation
+
+**Data & Persistence**
+- PostgreSQL, Supabase  
+- Structured data modeling, migrations, deterministic data pipelines
+
+**AI & Automation**
+- OpenAI / LLM integrations  
+- Semantic inference, AI-assisted workflows, document automation  
+- Deterministic-first systems with AI fallback  
+- API-driven automation and intelligent data mapping
+
+**DevOps & Tooling**
+- Git, GitHub Actions, Postman  
+- AWS, Firebase, Vercel, Railway  
+- Environment configuration, CI-ready workflows, production deployments
+
+**Engineering Focus**
+- Full-stack system design  
+- Automation-first architecture  
+- Human-in-the-loop safety patterns  
+- Production-ready, maintainable, and testable systems
 
 ⸻
 
