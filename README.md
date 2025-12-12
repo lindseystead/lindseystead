@@ -35,38 +35,27 @@ React Native mental-wellness companion with offline-first architecture, secure a
 🔗 **Repo:** https://github.com/lindseystead/ResilientHQ
 
 ⸻
+## 🛠 Core Technologies & Focus
 
-## 🛠 Core Technologies
+### Frontend Engineering
+**React · React Native · TypeScript · Tailwind**  
+Component-driven UI, state management, responsive & mobile-first design, clean UX patterns.
 
-**Frontend**
-- React, React Native, TypeScript, Tailwind  
-- Component-driven UI, state management, responsive & mobile-first design
+### Backend & Data Systems
+**Node.js · Express · PostgreSQL · Supabase**  
+API design, authentication flows, business logic, structured data modeling, deterministic pipelines.
 
-**Backend**
-- Node.js, Express, Python  
-- REST APIs, authentication flows, business logic, data validation
+### AI & Automation
+**Python · OpenAI APIs · Semantic Mapping · Prompt Pipelines**  
+AI-assisted workflows, document automation, intelligent field mapping, automation-first system design.
 
-**Data & Persistence**
-- PostgreSQL, Supabase  
-- Structured data modeling, migrations, deterministic data pipelines
+### DevOps & Platforms
+**AWS · Firebase · Vercel · Railway · CI/CD**  
+Environment configuration, cloud deployments, CI-ready workflows, production monitoring.
 
-**AI & Automation**
-- OpenAI / LLM integrations  
-- Semantic inference, AI-assisted workflows, document automation  
-- Deterministic-first systems with AI fallback  
-- API-driven automation and intelligent data mapping
-
-**DevOps & Tooling**
-- Git, GitHub Actions, Postman  
-- AWS, Firebase, Vercel, Railway  
-- Environment configuration, CI-ready workflows, production deployments
-
-**Engineering Focus**
-- Full-stack system design  
-- Automation-first architecture  
-- Human-in-the-loop safety patterns  
-- Production-ready, maintainable, and testable systems
-
+### Engineering Strengths
+End-to-end system design · Automation-first architecture · API design ·  
+AI integration with safety boundaries · UX-aware engineering
 ⸻
 
 ## 🔗 Connect
