@@ -1,5 +1,4 @@
-# 🚀 Lindsey Stead — Full-Stack & AI Engineer
-
+# 🚀 Lindsey Stead 
 I design and build production-ready systems end-to-end — from React/React Native frontends to Node.js/TypeScript backends, SQL data layers, automation pipelines, and AI-powered workflows that support real operational environments.
 
 With a background in Computing Science, Health Sciences, and Psychology, I build software that is reliable, human-centered, and grounded in practical problem-solving.
