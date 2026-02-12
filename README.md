@@ -1,65 +1,46 @@
-# 🚀 Lindsey Stead 
-I design and build production-ready systems end-to-end — from React/React Native frontends to Node.js/TypeScript backends, SQL data layers, automation pipelines, and AI-powered workflows that support real operational environments.
+# Lindsey Stead
 
-With a background in Computing Science, Health Sciences, and Psychology, I build software that is reliable, human-centered, and grounded in practical problem-solving.
+Full-Stack Software Developer building and operating production SaaS systems.
 
+I design, build, and maintain end-to-end systems across frontend interfaces, backend APIs, relational data layers, integrations, and cloud deployments. My background in Computing Science, Health Sciences, and Psychology shapes how I approach system design, usability, and long-term reliability in real operational environments.
 
+I’m comfortable owning features from design through deployment, collaborating with product and design stakeholders, and ramping quickly on new languages or frameworks as projects evolve.
 
-⸻
+---
 
-## 📌 Selected Work
+## Selected Production Systems
 
-### Foodbank Check-In System
+**HelpKelowna**  
+Civic resource discovery platform with structured data ingestion, search filtering, and administrative tooling.  
+🌐 https://www.helpkelowna.com
 
-Mobile-first client check-in platform with multilingual support, role-based admin dashboards, analytics, and a clean API surface.
+**PawsitivePlacements**  
+Intake-to-placement workflow system with secure data handling, role-based dashboards, and maintainable backend architecture.  
+🌐 https://www.pawsitiveplacements.ca
 
-🔗 **Repo:** https://github.com/lindseystead/foodbank-checkin-portfolio
+**CivilProposal**  
+AI-assisted proposal and document workflow system combining deterministic pipelines with structured data modeling.  
+🌐 https://www.civilproposal.com
 
-### SmartSheetConnect
+---
 
-Automation platform with guided setup, white-label embeds, UTM tracking, Sheets/Gmail/Slack integrations, and AI-powered lead enrichment.
+## Engineering Focus
 
-🔗 **Repo:** https://github.com/lindseystead/smartsheetconnect-portfolio
+- RESTful API design and backend services  
+- Relational database modeling (PostgreSQL / SQL)  
+- SaaS architecture and system reliability  
+- Third-party integrations  
+- CI/CD and production deployments  
+- Clean, maintainable, well-documented code  
 
-### Pawsitive Placements
+---
 
-Intake-to-placement workflow system for shelters and rescues. Clean UX, efficient data handling, and modular architecture.
+## Core Stack
 
-(Demo available on request)
+React · TypeScript · Node.js · SQL · Cloud
 
-### ResilientHQ Mobile App
+Experience across Python-based workflows, document databases, and integration-driven architectures. Comfortable ramping quickly on new technologies as required.
 
-React Native mental-wellness companion with offline-first architecture, secure auth, and scalable API connectivity.
+---
 
-🔗 **Repo:** https://github.com/lindseystead/ResilientHQ
-
-⸻
-## 🛠 Core Technologies & Focus
-
-### Frontend Engineering
-**React · React Native · TypeScript · Tailwind**  
-Component-driven UI, state management, responsive & mobile-first design, clean UX patterns.
-
-### Backend & Data Systems
-**Node.js · Express · PostgreSQL · Supabase**  
-API design, authentication flows, business logic, structured data modeling, deterministic pipelines.
-
-### AI & Automation
-**Python · OpenAI APIs · Semantic Mapping · Prompt Pipelines**  
-AI-assisted workflows, document automation, intelligent field mapping, automation-first system design.
-
-### DevOps & Platforms
-**AWS · Firebase · Vercel · Railway · CI/CD**  
-Environment configuration, cloud deployments, CI-ready workflows, production monitoring.
-
-### Engineering Strengths
-End-to-end system design · Automation-first architecture · API design ·  
-AI integration with safety boundaries · UX-aware engineering
-⸻
-
-## 🔗 Connect
-
-- **LinkedIn:** https://linkedin.com/in/lindseystead
-- **GitHub:** https://github.com/lindseystead
-
-⸻
+🔗 LinkedIn: https://linkedin.com/in/lindseystead
