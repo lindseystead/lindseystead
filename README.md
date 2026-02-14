@@ -13,15 +13,15 @@ I’ve led features end-to-end, collaborated with product and design stakeholder
 ## 🚀 Selected Production Systems
 
 ### HelpKelowna  
-Civic resource discovery platform with structured data ingestion, advanced filtering, and administrative tooling.  
+Civic resource discovery platform with structured data ingestion, search filtering, browser-based favourites and a resource map.  
 🌐 https://www.helpkelowna.com
 
 ### PawsitivePlacements  
-Secure intake-to-placement workflow system with role-based dashboards and maintainable backend architecture.  
+Ethical Pet rehoming and adoption platform to connect users with pets and shelters. Features an intake-to-placement workflow system with role-based dashboards and maintainable backend architecture.  
 🌐 https://www.pawsitiveplacements.ca
 
 ### CivilProposal  
-AI-assisted proposal and document workflow system combining deterministic pipelines with structured data modeling.  
+AI-assisted proposal and document workflow system that deterministic pipelines with structured data modeling.  
 🌐 https://www.civilproposal.com
 
 ---
