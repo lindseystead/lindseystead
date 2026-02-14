@@ -21,7 +21,7 @@ Ethical Pet rehoming and adoption platform to connect users with pets and shelte
 🌐 https://www.pawsitiveplacements.ca
 
 ### CivilProposal  
-AI-assisted proposal and document workflow system that deterministic pipelines with structured data modeling.  
+AI-assisted scoping intelligence proposal management platform and document workflow system that uses deterministic pipelines and structured data modeling to reduce proposal generation timelines and improve win-rates and reduce risk in civil engineering.
 🌐 https://www.civilproposal.com
 
 ---
