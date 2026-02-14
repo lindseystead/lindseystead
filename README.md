@@ -1,10 +1,12 @@
 # Lindsey Stead
 
-Full-Stack Software Developer building and operating production SaaS systems.
+Full-Stack Software Developer building thoughtful, production-ready systems.
 
-I design, build, and maintain end-to-end systems across frontend interfaces, backend APIs, relational data layers, integrations, and cloud deployments. My background in Computing Science, Health Sciences, and Psychology shapes how I approach system design, usability, and long-term reliability in real operational environments.
+I design and ship real software used by real people — from frontend interfaces to backend APIs, databases, integrations, and cloud deployments. I care about clarity, reliability, and building systems that hold up in everyday use.
 
-I’m comfortable owning features from design through deployment, collaborating with product and design stakeholders, and ramping quickly on new languages or frameworks as projects evolve.
+With a background in Computing Science, Health Sciences, and Psychology, I approach engineering with both technical rigor and human awareness. I enjoy translating messy real-world workflows into clean, maintainable software.
+
+I’m comfortable owning features end-to-end — from early design discussions through deployment and iteration — and I ramp quickly when new tools or domains are involved.
 
 ---
 
