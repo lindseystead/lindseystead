@@ -1,7 +1,7 @@
 # Lindsey Stead
 
 Full-Stack Software Developer  
-React · TypeScript · Node.js · PHP · SQL · Cloud
+React · TypeScript · Node.js · Python · PHP · SQL · Cloud
 
 I design and build full-stack systems with a focus on workflow-driven applications and integration-heavy environments.
 
