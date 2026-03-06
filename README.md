@@ -1,36 +1,65 @@
-# Lindsey Stead
+# Lindsey D. Stead
 
-Full-Stack Software Developer  
-React · TypeScript · Node.js · Python · PHP · SQL · Cloud
+AI Engineer & Full-Stack Developer  
+Founder — Lifesaver Technology Services
 
-I design and build full-stack systems with a focus on workflow-driven applications and integration-heavy environments.
+I build AI-integrated software systems, automation infrastructure, and full-stack platforms used in real operational environments.
 
-My background spans Psychology, Health Sciences, and Computing Science. That multidisciplinary foundation shapes how I approach software. I think about architecture, but also about human behavior, operational constraints, and how systems evolve over time.
+My background spans Psychology, Health Sciences, and Computing Science. That interdisciplinary foundation shapes how I approach software: designing systems that account not only for architecture and data flow, but also for the human workflows and operational constraints they must support.
 
-I've built and deployed production applications end-to-end — from frontend interfaces and API design to relational data modeling and cloud deployment. Most of my work involves SaaS platforms, automation systems, and tools used in real operational settings.
-
----
-
-## Selected Systems
-
-**HelpKelowna**  
-Civic resource discovery platform with structured data ingestion, search filtering, and mapping.  
-[helpkelowna.com](https://www.helpkelowna.com)
-
-**PawsitivePlacements**  
-Adoption and intake workflow platform with relational data modeling and role-based dashboards.  
-[pawsitiveplacements.ca](https://www.pawsitiveplacements.ca)
-
-**CivilProposal**  
-Scoping and proposal platform integrating structured data pipelines and AI-assisted document workflows.  
-[civilproposal.com](https://www.civilproposal.com)
+I design and deploy production systems end-to-end — from frontend interfaces and API architecture to relational data modeling, automation infrastructure, and cloud deployment. Much of my work focuses on SaaS platforms, workflow-driven systems, and integration-heavy environments.
 
 ---
 
-## Focus Areas
+## Currently Building
 
-- End-to-end SaaS architecture
-- API and integration design
-- Relational database modeling
-- Automation and applied AI
-- Long-term maintainability and reliability
+• Compliance auditing software for property managers managing short-term rentals  
+• AI-assisted proposal generation systems for engineering workflows  
+• Automation infrastructure using n8n for business process orchestration  
+• Voice AI agent systems for call routing, intake, and workflow automation  
+• Agent-based architectures for business automation and operational workflows  
+• Agentic safety architectures for AI systems used in mental health contexts  
+• Intelligent form automation and document generation platforms  
+
+---
+
+## Systems
+
+### CivilProposal
+AI-powered proposal generation platform integrating structured data pipelines and municipal GIS intelligence for civil engineering workflows.  
+https://civilproposal.com
+
+### HelpKelowna
+Civic resource discovery platform with structured data ingestion, filtering, and geographic search across 600+ verified community services.  
+https://helpkelowna.com
+
+### PawsitivePlacements
+Adoption and intake workflow platform with relational data modeling, intake pipelines, and role-based dashboards.  
+https://pawsitiveplacements.ca
+
+### Foodbank Client System
+Multilingual client intake and appointment platform designed for food bank operations and community service workflows.
+
+---
+
+## Engineering Focus
+
+AI-integrated software systems  
+Agent-based architectures and automation infrastructure  
+Voice AI systems and conversational workflows  
+End-to-end SaaS architecture  
+API and integration design  
+Relational database modeling  
+Systems designed for long-term maintainability and reliability
+
+---
+
+## Stack
+
+TypeScript · Node.js · React  
+Python · PHP · SQL  
+REST APIs · n8n · Automation Systems · Cloud Infrastructure
+
+---
+
+Building software that integrates AI into real workflows and remains reliable as organizations evolve.
