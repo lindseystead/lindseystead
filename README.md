@@ -1,45 +1,31 @@
 # Lindsey D. Stead
 
-**Full-stack software developer building reliable data and AI systems.**
+**Full-stack software developer building reliable data and applied AI systems.**
 
-I design, build, deploy, and operate software that turns fragmented information into systems people can trust. My work spans frontend and backend development, APIs, data pipelines, applied AI, automated testing, deployment, and production support.
+I design, build, deploy, and maintain software across frontend development, backend services, APIs, data workflows, automated testing, and production operations.
 
-My background in Computing Science, Psychology, and Health Sciences informs how I approach software: technical correctness matters, but so do the people, decisions, and real-world workflows the system supports.
+My background in Computing Science, Health Science, and Psychology influences how I approach evidence, privacy, accessibility, risk, and human interaction in software.
 
-## Selected systems
-
-These include deployed production software, public developer tools, and private product systems.
-
-### CivilProposal
-
-A private pre-construction intelligence and proposal-generation platform that combines Canadian public datasets into sourced site-scoping information and proposal workflows. Its AI-assisted research and generation features are grounded in cited evidence, explicit uncertainty, and human review.
+## Selected work
 
 ### [PDF Autofiller](https://github.com/lindseystead/ai-pdf-autofiller)
 
-A Python and FastAPI service that maps structured data into AcroForm PDFs. Deterministic matching handles normal cases, with optional AI-assisted inference for ambiguous fields.
+Python and FastAPI service for filling AcroForm PDFs using deterministic field matching with optional AI-assisted inference.
 
 ### [ResilientHQ](https://github.com/lindseystead/ResilientHQ)
 
-A cross-platform React Native application with offline workflows, automated quality gates, and safety-conscious AI integration.
+Cross-platform React Native application with offline workflows, automated quality gates, and safety controls for AI-enabled features.
 
 ### [Foodbank Check-In](https://github.com/lindseystead/foodbank-checkin-system)
 
-A multilingual self-service intake and staff administration system for privacy-sensitive community-service workflows. The public repository contains the React interface; production API components remain private.
+Multilingual React and TypeScript intake interface for privacy-sensitive community-service workflows. Production API components remain private.
 
-### [ArchGuard](https://github.com/lindseystead/ArchGuard)
+### CivilProposal
 
-Developer tooling for enforcing architectural boundaries in TypeScript and React codebases through static analysis, CI integration, a GitHub Action, and MCP tooling.
+Proprietary pre-construction software combining Canadian public datasets into sourced site-scoping information and human-reviewed AI-assisted workflows.
 
-## Engineering principles
+## Stack
 
-- Prefer deterministic behaviour before probabilistic inference.
-- Preserve data provenance and make uncertainty visible.
-- Build human review into consequential AI workflows.
-- Treat testing, security, deployment, and operability as engineering requirements.
-- Document important architectural decisions and their trade-offs.
-
-## Primary stack
-
-TypeScript · React · React Native · Node.js · Python · FastAPI · PostgreSQL · Redis · Docker · GitHub Actions · Playwright
+TypeScript · React · React Native · Node.js · Python · FastAPI · PostgreSQL · Docker · GitHub Actions · Playwright
 
 British Columbia, Canada
