@@ -26,8 +26,8 @@ Lead-capture UI portfolio — embeddable React forms and setup wizard (full prod
 ### HelpKelowna · [helpkelowna.com](https://www.helpkelowna.com)
 Production community resource directory (private codebase) — React, Express, Postgres, search + verification workflows.
 
-### CivilProposal · [civilproposal.com](https://www.civilproposal.com)
-Multi-tenant SaaS for civil engineering firms (private) — site intelligence, fee workflows, human-reviewed AI proposal drafts.
+### [CivilProposal](https://github.com/lindseystead/civil-proposal-showcase) · [civilproposal.com](https://www.civilproposal.com)
+Multi-tenant SaaS for civil engineering firms — site intelligence, fee workflows, human-reviewed AI proposal drafts. Showcase repo public; full production app private.
 
 ### FillOnce · [fillonce.app](https://www.fillonce.app)
 Privacy-first form autofill SaaS (private) — encrypted vault, mapping review, document fill.
