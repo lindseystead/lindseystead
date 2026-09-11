@@ -14,9 +14,6 @@ Python / FastAPI service that fills AcroForm PDFs from JSON — deterministic fi
 ### [Foodbank Check-In](https://github.com/lindseystead/foodbank-checkin-system)
 Multilingual React + TypeScript kiosk and staff dashboard for privacy-sensitive community intake. [Live demo](https://foodbank-checkin-tan.vercel.app/)
 
-### [ArchGuard](https://github.com/lindseystead/ArchGuard)
-Local-first architecture enforcement for React + TypeScript — layer boundaries, UI rules, monorepo support, GitHub Action.
-
 ### [SmartSheetConnect](https://github.com/lindseystead/smartsheetconnect)
 Lead-capture UI portfolio — embeddable React forms and setup wizard (full production automation API remains private).
 
