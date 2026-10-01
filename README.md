@@ -1,43 +1,28 @@
 # Lindsey D. Stead
 
-**Full-stack software developer building reliable data, workflow, and applied AI systems.**
-
-I design, build, deploy, and maintain production software across frontend apps, backend services, REST APIs, data systems, automated testing, and cloud deployment.
-
-Background in Computing Science, Health Science, and Psychology — I care about evidence, privacy, accessibility, and clear human workflows in software.
+Full-stack software developer in British Columbia. I build TypeScript products on Postgres: schema, API, UI, tests, and deploy. When a model is in the product, ordinary code decides what is allowed to stick.
 
 ## Selected work
 
+### [CivilProposal](https://www.civilproposal.com)
+Private. React, Vite, Express, Drizzle, Postgres, Stripe, Fly (Toronto) and Supabase (Montreal). Municipal and climate datasets are resolved in code, and each claim stores its source. OpenAI drafts proposal sections for a person to review. CI runs the unit suite and Postgres row-level security checks.
+
+### [HelpKelowna](https://www.helpkelowna.com)
+Private. React, Express, Drizzle, Postgres. A verification job reads a web page and keeps a claim only when the quoted sentence is actually on that page. Rejected claims go to a change log, not the live record.
+
 ### [PDF Autofiller](https://github.com/lindseystead/ai-pdf-autofiller)
-Python / FastAPI service that fills AcroForm PDFs from JSON — deterministic field matching first, optional AI-assisted inference. [Playground](https://lindseystead.github.io/ai-pdf-autofiller/)
+Public. Python, FastAPI, Docker. Fills AcroForm PDFs from JSON with deterministic field aliases. The model path stays off unless an API key is set. CI enforces coverage. [Playground](https://lindseystead.github.io/ai-pdf-autofiller/)
 
-### [Foodbank Check-In](https://github.com/lindseystead/foodbank-checkin-system)
-Multilingual React + TypeScript kiosk and staff dashboard for privacy-sensitive community intake. [Live demo](https://foodbank-checkin-tan.vercel.app/)
+### [Food bank check-in](https://github.com/lindseystead/foodbank-checkin-system)
+Public repo is the kiosk and staff UI, in seven languages. The Express API and migrations are private. [Kiosk demo](https://foodbank-checkin-tan.vercel.app/)
 
-### [SmartSheetConnect](https://github.com/lindseystead/smartsheetconnect)
-Lead-capture UI portfolio — embeddable React forms and setup wizard (full production automation API remains private).
+## Open source
 
-### HelpKelowna · [helpkelowna.com](https://www.helpkelowna.com)
-Production community resource directory (private codebase) — React, Express, Postgres, search + verification workflows.
-
-### [CivilProposal](https://github.com/lindseystead/civil-proposal-showcase) · [civilproposal.com](https://www.civilproposal.com)
-Multi-tenant SaaS for civil engineering firms — site intelligence, fee workflows, human-reviewed AI proposal drafts. Showcase repo public; full production app private.
-
-### FillOnce · [fillonce.app](https://www.fillonce.app)
-Privacy-first form autofill SaaS (private) — encrypted vault, mapping review, document fill.
-
-## Open source contributions
-
-Upstream PRs (not just forks):
-
-- [Memori](https://github.com/MemoriLabs/Memori/pull/231) — fix multi-turn conversation ingestion for Azure OpenAI *(merged)*
-- [Trigger.dev](https://github.com/triggerdotdev/trigger.dev/pull/2680) — env var / dotenv documentation *(merged)*
-- [openapi-typescript](https://github.com/openapi-ts/openapi-typescript/pull/2537) — onError middleware docs fix *(merged)*
-- [VS Code Material Icon Theme](https://github.com/material-extensions/vscode-material-icon-theme/pull/3278) — Deno logo update *(merged)*
-- [Vercel](https://github.com/vercel/vercel/pull/14960) — docs PR *(open)*
+- [Memori #231](https://github.com/MemoriLabs/Memori/pull/231) — merged fix for multi-turn conversation ingestion on Azure OpenAI
+- Docs fixes: [openapi-typescript #2537](https://github.com/openapi-ts/openapi-typescript/pull/2537), [Trigger.dev #2680](https://github.com/triggerdotdev/trigger.dev/pull/2680)
 
 ## Stack
 
-TypeScript · React · Node.js / Express · Python / FastAPI · PostgreSQL · REST APIs · Supabase · Stripe · Docker · GitHub Actions · Playwright · React Native / Expo
+TypeScript · React · Node.js · PostgreSQL · Drizzle · Zod · Supabase · Stripe · Docker · GitHub Actions · Vitest · Playwright
 
-British Columbia, Canada
+Python / FastAPI on [PDF Autofiller](https://github.com/lindseystead/ai-pdf-autofiller). One React Native app (Expo).
