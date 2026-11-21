@@ -1,6 +1,6 @@
 # Lindsey D. Stead
 
-Full-stack software developer in British Columbia. I build TypeScript products on Postgres: schema, API, UI, tests, and deploy. When a model is in the product, code decides what is allowed to stick.
+Full-stack software developer in British Columbia. I build TypeScript products on Postgres: schema, API, UI, tests, and deploy. When a model is in the product, code decides what is allowed to stick. I also ship the site, the CRM, and the automations as one system.
 
 ## Selected work
 
@@ -16,6 +16,12 @@ Python, FastAPI, and Docker. Fills AcroForm PDFs from JSON using field aliases. 
 ### [Food bank check-in](https://github.com/lindseystead/foodbank-checkin-system)
 Kiosk and staff dashboard in seven languages. The API is not in this repository. [Demo](https://foodbank-checkin-tan.vercel.app/)
 
+## Automation
+
+n8n workflows, GoHighLevel pipelines, and inbound voice agents (Vapi) that book, reschedule, and capture leads. WordPress and React sites feed the CRM. A person signs off when a draft could hurt someone.
+
+Tools: n8n, GoHighLevel, Vapi, WordPress, React, Next.js, Node.js, Python, FastAPI, Stripe, Twilio, HubSpot.
+
 ## Open source
 
 - [Memori #231](https://github.com/MemoriLabs/Memori/pull/231) — merged fix for multi-turn conversation ingestion on Azure OpenAI
@@ -23,6 +29,6 @@ Kiosk and staff dashboard in seven languages. The API is not in this repository.
 
 ## Stack
 
-TypeScript · React · Node.js · PostgreSQL · Drizzle · Zod · Supabase · Stripe · Docker · GitHub Actions · Vitest · Playwright
+TypeScript · React · Next.js · Node.js · PostgreSQL · Drizzle · Zod · Supabase · Stripe · Docker · GitHub Actions · Vitest · Playwright · n8n
 
 Python and FastAPI on PDF Autofiller. One React Native app, built with Expo.
